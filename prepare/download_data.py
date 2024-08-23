@@ -1,29 +1,11 @@
-# -*- coding: utf-8 -*-
-
-#
-# 本書で取り扱う音声データと，ラベルデータをダウンロードします．
-# データは，JSUTコーパスを使用します．
-# https://sites.google.com/site/shinnosuketakamichi/publication/jsut
-#
-
-# ファイルをダウンロードするためのモジュールをインポート
 from urllib.request import urlretrieve
-
-# zipファイルを展開するためのモジュールをインポート
 import zipfile
-
-# osモジュールをインポート
 import os
 
-#
-# メイン関数
-#
 if __name__ == "__main__":
     
-    # データの置き場を定義
     data_dir = './data/original'
 
-    # ディレクトリdata_dirが存在しない場合は作成する
     os.makedirs(data_dir, exist_ok=True)
 
     # 音声ファイル(jsutコーパス. zip形式)をダウンロード
