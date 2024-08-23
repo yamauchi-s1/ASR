@@ -92,7 +92,8 @@ class Encoder(nn.Module):
                 output_lengths = torch.div((output_lengths+1), sub,
                                             rounding_mode='floor')
                 
-            output = torch.tahnh(self.proj[n](output))
+            output = torch.tahn
+            h(self.proj[n](output))
             
         return output, output_lengths
     
