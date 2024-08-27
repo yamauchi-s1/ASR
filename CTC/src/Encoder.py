@@ -18,7 +18,7 @@ class Encoder(nn.Module):
     rnn_type : LSTM or GRU
     '''
     
-    def __int__(self,
+    def __init__(self,
                 dim_in,
                 dim_hidden,
                 dim_proj,
@@ -92,8 +92,7 @@ class Encoder(nn.Module):
                 output_lengths = torch.div((output_lengths+1), sub,
                                             rounding_mode='floor')
                 
-            output = torch.tahn
-            h(self.proj[n](output))
+            output = torch.tanh(self.proj[n](output))
             
         return output, output_lengths
     

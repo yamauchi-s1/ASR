@@ -1,3 +1,8 @@
+import sys
+import os
+sys.path.append(os.path.dirname(os.path.abspath(__file__)))
+
+
 import torch.nn as nn
 from Encoder import Encoder
 from initialize import lecun_initialization
@@ -64,5 +69,4 @@ class CTCModel(nn.Module):
         output = self.out(enc_out)
         
         return output, enc_lenghts
-        
         

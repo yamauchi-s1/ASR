@@ -1,0 +1,31 @@
+epoch	train loss	train err	valid loss	valid err
+1	121.235309	     ---     	79.409395	75.061244	
+2	50.720787	     ---     	34.596540	59.790952	
+3	24.988278	     ---     	22.103823	41.907562	
+4	15.100874	     ---     	14.875216	38.281888	
+5	10.089167	     ---     	12.318272	36.640536	
+6	7.155038	     ---     	9.314008	27.739670	
+7	5.167624	     ---     	8.860550	31.577658	
+8	3.668537	     ---     	9.396902	29.756655	(Decay learning rate: 1.000000 -> 0.500000)
+9	1.455315	     ---     	7.661501	28.735914	
+10	0.864234	     ---     	7.285189	27.584517	
+11	0.555177	     ---     	8.919011	28.850237	(Decay learning rate: 0.500000 -> 0.250000)
+12	0.231114	     ---     	7.797548	26.669933	(Decay learning rate: 0.250000 -> 0.125000)
+13	0.110531	     ---     	7.793313	26.931243	(Decay learning rate: 0.125000 -> 0.062500)
+14	0.071700	     ---     	7.801251	26.759758	(Decay learning rate: 0.062500 -> 0.031250)
+15	0.058575	     ---     	7.949684	26.465785	(Decay learning rate: 0.031250 -> 0.015625)
+16	0.053022	     ---     	7.966663	26.473951	(Decay learning rate: 0.015625 -> 0.007812)
+17	0.050342	     ---     	7.957288	26.408623	(Decay learning rate: 0.007812 -> 0.003906)
+18	0.049054	     ---     	7.979881	26.384125	
+    Early stopping. (early_stop_threshold = 8)
+---------------Summary------------------
+Final epoch model -> ./exp_train_small/phone_model_ctc/final_model.pt
+    train loss: 0.049054
+    train token error rate: (not evaluated)
+    validation loss: 7.979881
+    validation token error rate: 26.384125 %
+Best epoch model (10-th epoch) -> ./exp_train_small/phone_model_ctc/best_model.pt
+    train loss: 0.864234
+    train token error rate: (not evaluated)
+    validation loss: 7.285189
+    validation token error rate: 27.584517 %

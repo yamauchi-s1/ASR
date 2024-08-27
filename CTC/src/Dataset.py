@@ -26,7 +26,7 @@ class SequenceDataset(Dataset):
         self.feat_list = []
         self.feat_len_list = []
         self.label_len_list = []
-
+        self.label_list = []
         self.feat_mean = feat_mean
         self.feat_std = feat_std
         self.feat_std[self.feat_std<1E-10] = 1E-10
@@ -111,7 +111,7 @@ class SequenceDataset(Dataset):
             
         pad_len = self.max_feat_len - feat_len
         feat = np.pad(feat, 
-                        [(0, feat), (0, 0)],
+                        [(0, pad_len), (0, 0)],
                         mode='constant',
                         constant_values=0)
         
