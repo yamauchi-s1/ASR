@@ -1,7 +1,6 @@
 import torch
 import torch.nn as nn
-from torch.nn.utils.rnn import pack_padded_sequence
-from torch.nn.utils.rnn import pad_packed_sequence
+from torch.nn.utils.rnn import pack_padded_sequence, pad_packed_sequence
 
 class Encoder(nn.Module):
     '''
@@ -25,7 +24,7 @@ class Encoder(nn.Module):
                 num_layers=2,
                 bidirectional=True, 
                 sub_sample=None, 
-                rnn_type = 'LSTM'):
+                rnn_type='LSTM'):
         super(Encoder, self).__init__()
         
         self.num_layers = num_layers
@@ -34,24 +33,23 @@ class Encoder(nn.Module):
         for n in range(self.num_layers):
             input_size = dim_in if n == 0 else dim_proj     
             if rnn_type == 'GRU':
-                rnn.append(nn.GRU(input_size = input_size,
-                                hidden_size=dim_hidden,
-                                bidirectional=bidirectional,
-                                batch_first=True))
+                rnn.append(nn.GRU(input_size=input_size,
+                                  hidden_size=dim_hidden,
+                                  bidirectional=bidirectional,
+                                  batch_first=True))
             else:
                 rnn.append(nn.LSTM(input_size=input_size, 
-                                hidden_size=dim_hidden,
-                                num_layers=1, 
-                                bidirectional=bidirectional, 
-                                batch_first=True))
+                                   hidden_size=dim_hidden,
+                                   num_layers=1, 
+                                   bidirectional=bidirectional, 
+                                   batch_first=True))
                 
         self.rnn = nn.ModuleList(rnn)
         if sub_sample is None:
-            #定義されていない場合はフレームの間引きを行わない
-            self.sub_sample = [1 for i in range(num_layers)]
+            # 定義されていない場合はフレームの間引きを行わない
+            self.sub_sample = [1 for _ in range(num_layers)]
         else:
             self.sub_sample = sub_sample
-            
             
         proj = []
         for n in range(self.num_layers):
@@ -73,30 +71,24 @@ class Encoder(nn.Module):
         '''
         
         output = sequence
-        output_lengths = lengths
+        # lengthsをCPU上のint64に変換
+        output_lengths = lengths.cpu().long()
         
         for n in range(self.num_layers):
-            
             rnn_input = pack_padded_sequence(output, 
-                                            output_lengths,
-                                            batch_first=True)
+                                             output_lengths,
+                                             batch_first=True)
             
             output, (h, c) = self.rnn[n](rnn_input)
-            #RNN層からProjection層へ入力するためにtensorデータに戻す
+            # RNN層からProjection層へ入力するためにtensorデータに戻す
             output, output_lengths = pad_packed_sequence(output, batch_first=True)
             
             sub = self.sub_sample[n]
             if sub > 1:
-                #間引きを実行
-                output = output[:, ::sub] #全ての行を選択し、subステップごとに列を選択
-                output_lengths = torch.div((output_lengths+1), sub,
-                                            rounding_mode='floor')
+                # 間引きを実行
+                output = output[:, ::sub] # 全ての行を選択し、subステップごとに列を選択
+                output_lengths = torch.div((output_lengths + 1), sub, rounding_mode='floor')
                 
             output = torch.tanh(self.proj[n](output))
             
         return output, output_lengths
-    
-    
-    
-            
-            

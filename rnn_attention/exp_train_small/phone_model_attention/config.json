@@ -1,0 +1,43 @@
+{
+    "unit": "phone",
+    "feat_scp_train": "../data/fbank/train_small/feats.scp",
+    "feat_scp_dev": "../data/fbank/dev/feats.scp",
+    "label_train": "./exp_train_small/data/phone/label_train_small",
+    "label_dev": "./exp_train_small/data/phone/label_dev",
+    "mean_std_file": "../data/fbank/train_small/mean_std.txt",
+    "token_list_path": "./exp_train_small/data/phone/token_list",
+    "output_dir": "./exp_train_small/phone_model_attention",
+    "out_att_dir": "./exp_train_small/phone_model_attention/att_matrix",
+    "dim_in": 40,
+    "num_tokens": 37,
+    "sos_id": 36,
+    "batch_size": 10,
+    "max_num_epoch": 60,
+    "enc_num_layers": 5,
+    "enc_sub_sample": [
+        1,
+        2,
+        2,
+        1,
+        1
+    ],
+    "enc_rnn_type": "GRU",
+    "enc_hidden_dim": 320,
+    "enc_projection_dim": 320,
+    "enc_bidirectional": true,
+    "dec_num_layers": 1,
+    "dec_hidden_dim": 300,
+    "att_hidden_dim": 320,
+    "att_filter_size": 100,
+    "att_filter_num": 10,
+    "att_temperature": 2.0,
+    "initial_learning_rate": 1.0,
+    "clip_grad_threshold": 5.0,
+    "lr_decay_start_epoch": 7,
+    "lr_decay_factor": 0.5,
+    "early_stop_threshold": 3,
+    "evaluate_error": {
+        "train": false,
+        "validation": true
+    }
+}
