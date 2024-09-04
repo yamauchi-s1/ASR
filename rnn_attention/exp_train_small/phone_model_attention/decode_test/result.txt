@@ -1,0 +1,1254 @@
+ID: BASIC5000_0001
+#ERROR (#SUB #DEL #INS): 34 (29 5 0)
+REF: o o g o e d e n a k i n a g a r a o N n a n o k o w a h a h a o y a o s a g a sh i t e i t a <eos>
+HYP: m i z o o m a r e e sh a a k a r a k a w a n a k u t o w a n a r a n a i d o d e s u
+
+ID: BASIC5000_0002
+#ERROR (#SUB #DEL #INS): 21 (20 1 0)
+REF: m o k u y o o b i t e e s e N k a i d a N w a n a N n o sh i N t e N m o n a i m a m a sh u u ry o o sh i m a sh i t a <eos>
+HYP: m o k u y o o b i cl e k k e N k a i i a i w a m a m n a a i N sh o N sh e m o m m a sh o sh i u y o o sh i m a sh i t a
+
+ID: BASIC5000_0003
+#ERROR (#SUB #DEL #INS): 41 (36 4 1)
+REF: m a cl k i sh i k e N n i s o n a e t e h o N t o o n i k i a i o i r e t e b e N ky o o sh i n a ky a <eos>
+HYP: j o o i N g i N N w a w a t a sh i g a d e e t a o i u g a m e t a t o k o k a h a sh u sh i t a
+
+ID: BASIC5000_0004
+#ERROR (#SUB #DEL #INS): 37 (25 12 0)
+REF: j o o i N g i i N w a w a t a sh i g a d e e t a o y u g a m e t a t o k o k u h a ts u sh i t a <eos>
+HYP: i sh sh u u k a N sh i t e s o n o m u u s o o a s o N t o o n i n a cl t a
+
+ID: BASIC5000_0005
+#ERROR (#SUB #DEL #INS): 4 (3 1 0)
+REF: k e ts u a ts u w a k e N k o o n o p a r o m e e t a a t o sh i t e j u u y o o d e a r u <eos>
+HYP: k e ts u a ts u w a k e N k o o o o t a r a m e e t a a t o sh i t e j u u y o o d e a r u
+
+ID: BASIC5000_0006
+#ERROR (#SUB #DEL #INS): 32 (23 9 0)
+REF: m i z u o m a r e e sh i a k a r a k a w a n a k u t e w a n a r a n a i n o d e s u <eos>
+HYP: sh u u n i y o o k a i k u r a s s u n o j i y o o g a a r i m a s u
+
+ID: BASIC5000_0007
+#ERROR (#SUB #DEL #INS): 29 (19 8 2)
+REF: i cl sh u u k a N sh i t e s o n o ny u u s u w a h o N t o o n i n a cl t a <eos>
+HYP: ky o k a sh o g a n a k e r e b a k o k o o w a h a e r e n a i
+
+ID: BASIC5000_0008
+#ERROR (#SUB #DEL #INS): 34 (21 2 11)
+REF: m u z a i n o h i t o b i t o w a m o ch i r o N h o o m e N s a r e t a <eos>
+HYP: o o g e o d e n a k i n a g a r a o h g o N a k o k a h a h a o y a y s a r a sh i t e i t a
+
+ID: BASIC5000_0009
+#ERROR (#SUB #DEL #INS): 29 (22 3 4)
+REF: sh u u n i y o N k a i f u r a N s u n o j u gy o o g a a r i m a s u <eos>
+HYP: m u z a i n o k i t e b i t o w a m o ch i r a N h o o m e e s a r e t a
+
+ID: BASIC5000_0010
+#ERROR (#SUB #DEL #INS): 39 (22 0 17)
+REF: ky o k a sh o g a n a k e r e b a k o k o e w a h a i r e n a i <eos>
+HYP: m a cl k i sh i k e n n i s u g a i t e h o N o o N n i k i y i y y r e t e b e N ch o o sh i n a k a
+
+ID: BASIC5000_0011
+#ERROR (#SUB #DEL #INS): 43 (38 4 1)
+REF: ch u u sh i N b u n i a r u n o d e sh o o t e N y a o f i s u n i i k u n o n i b e N r i d e s u <eos>
+HYP: h i s o g a w a h a sh i b a sh i b a n i h o N r o r a i g g a w a d o r u r a r e t e i r u
+
+ID: BASIC5000_0012
+#ERROR (#SUB #DEL #INS): 34 (22 4 8)
+REF: m u k a sh i m u k a sh i h i t o r i n o r o o j i N g a s u N d e i t a <eos>
+HYP: o b o r e k a cl a cl t e i t o ch o o k a k u w a s u b e t e ch u u h o s a r e t a
+
+ID: BASIC5000_0013
+#ERROR (#SUB #DEL #INS): 37 (26 5 6)
+REF: sh e e k u s u p i a n o s a k u h i N w a t o t e m o m u z u k a sh i k u t e y o m e n a i <eos>
+HYP: j u u sh i N b u n i a r u n o d e sh o o t e i n a o k u s u n i n k u n a n a m e N n i d e s u
+
+ID: BASIC5000_0014
+#ERROR (#SUB #DEL #INS): 43 (40 3 0)
+REF: k i s o g a w a w a sh i b a sh i b a n i h o N n o r a i N g a w a t o y o b a r e t e i r u <eos>
+HYP: z a N k o k u t o y u k k o t o w a k a r e n o s e e sh i ts u n i w a n a k k o t o d a
+
+ID: BASIC5000_0015
+#ERROR (#SUB #DEL #INS): 10 (9 1 0)
+REF: t e e e N n o m a w a r i n i g u r u r i t o t a k a i h e e g a t a cl t e i r u <eos>
+HYP: t e e e r r o m a a a i i i i u u r i i i t o t a k a i h e e a a t a cl t e i r u
+
+ID: BASIC5000_0016
+#ERROR (#SUB #DEL #INS): 33 (29 4 0)
+REF: o b o r e k a k a cl t e i t a j o o ky a k u w a s u b e t e ky u u j o s a r e t a <eos>
+HYP: sh u cl s e e r i ts u t o sh i b o r r i ts u w a h o o o k i t o sh i k a cl t a
+
+ID: BASIC5000_0017
+#ERROR (#SUB #DEL #INS): 35 (25 10 0)
+REF: z a N k o k u t o y u u k o t o w a k a r e n o s e e sh i ts u n i w a n a i k o t o d a <eos>
+HYP: ky e cl t a i n i s o n o s u i ch ch i n i s a a a cl t e w a i k e n a i
+
+ID: BASIC5000_0018
+#ERROR (#SUB #DEL #INS): 27 (18 8 1)
+REF: sh u cl s e e r i ts u t o sh i b o o r i ts u w a h o b o h i t o sh i k a cl t a <eos>
+HYP: h i y a o d e r u t o k i n i w a k k a r i o k i sh i n a s a i
+
+ID: BASIC5000_0019
+#ERROR (#SUB #DEL #INS): 34 (14 5 15)
+REF: z e cl t a i n i s o n o s u i cl ch i n i s a w a cl t e w a i k e n a i <eos>
+HYP: sh i e k u s u t i y n o s a k i h i N w a t o t o m o m o z u k a sh i k u t e i o o e n a i
+
+ID: BASIC5000_0020
+#ERROR (#SUB #DEL #INS): 28 (21 2 5)
+REF: h e y a o d e r u t o k i n i w a a k a r i o k e sh i n a s a i <eos>
+HYP: m u k a sh i i i cl u cl i cl i i o h i h o h i sh r i n r o o u i g a m s a
+
+ID: BASIC5000_0021
+#ERROR (#SUB #DEL #INS): 75 (15 60 0)
+REF: sh i s u t i n a r e e h a i d o o w a s e N y o N hy a k u n a n a j u u s a N n e N n i b a ch i k a N ky u u d e N n a i n i k o N ry u u s a r e t a s o o d a i n a r e e h a i d o o d e s u <eos>
+HYP: h i r o o y a r a u e y a r a d e k a r e w a m e g a i o k a N j i t a
+
+ID: BASIC5000_0022
+#ERROR (#SUB #DEL #INS): 51 (26 25 0)
+REF: s a k u ry a k u w a i f u k u o h i ts u y o o t o s u r u g a sh i N j i ts u w a h a d a k a d e a r u k o t o o k o n o m u <eos>
+HYP: m u sh i r o r o N g e n o h o o g a h a n e y a s u i cl t e k i t t a d a o
+
+ID: BASIC5000_0023
+#ERROR (#SUB #DEL #INS): 51 (20 30 1)
+REF: s a sh i k i z u w a t o t e m o f u k a k u k a N s e N n o o s o r e g a n a i k a k e N s a s u r u h i ts u y o o g a a r u <eos>
+HYP: m o k o o n i t a cl t e i r o o n n a n o k o w a m e e r a d r e s u
+
+ID: BASIC5000_0024
+#ERROR (#SUB #DEL #INS): 79 (22 0 57)
+REF: m u sh i r o r o N g e n o h o o g a h a g e y a s u i cl t e k i i t a z o <eos>
+HYP: sh i s u t e g a r e a a a d d o o w a s e i y o i y a k u n a z a z u z g a n n i n d i a a k i k a N j u u d e N n a i n i k o N ry u u s a r e t a s o o d a i n a r e e h a i d o d d e s u
+
+ID: BASIC5000_0025
+#ERROR (#SUB #DEL #INS): 33 (24 9 0)
+REF: g a i k o o k a N n i w a s a m a z a m a n a t o cl k e N g a a t a e r a r e t e i r u <eos>
+HYP: t e n i s u g i m a a r e k e d o i o o d a i t a i k a i cl t e n a n i
+
+ID: BASIC5000_0026
+#ERROR (#SUB #DEL #INS): 47 (24 0 23)
+REF: k o i k o o h i i y o r i u s u i k o o h i i n o h o o g a s u k i d e s u <eos>
+HYP: s a k u r a k u w a i k u k u o h i ts u y o t t o s u r u sh a sh i N j u ts u w a h a d a k a d a r r u k o t o o k o n o m u
+
+ID: BASIC5000_0027
+#ERROR (#SUB #DEL #INS): 33 (26 3 4)
+REF: h i r o o y a r a u e y a r a d e k a r e w a m e m a i o k a N j i t a <eos>
+HYP: k o i k o o h i i y o r i b f u i k o o i i i g o h a g g a s u k i d e s u
+
+ID: BASIC5000_0028
+#ERROR (#SUB #DEL #INS): 32 (24 0 8)
+REF: m u k o u n i t a cl t e i r u o N n a n o k o w a m e a r i i d e s u <eos>
+HYP: k a i k o o k a n n i w a s a m a n a m a n o t o k k e N a a t t e r r u t e t e i r u
+
+ID: BASIC5000_0029
+#ERROR (#SUB #DEL #INS): 49 (23 0 26)
+REF: t e n i s u n i m o a r u k e d o y o N d a i t a i k a i cl t e n a n i <eos>
+HYP: s a sh i k i ts u w a t o t e m o f u k a k u k a N z e N n o o s a r e n a n a k k a N e N s u r u r i y i o u a a r r a r r u
+
+ID: BASIC5000_0030
+#ERROR (#SUB #DEL #INS): 4 (3 1 0)
+REF: g a i j i N g a n i h o N sh o k u n i n a r e r u k o t o w a m u z u k a sh i i <eos>
+HYP: a a i j i N g a n i h o o sh o k u n i n a r e r u k o t o w a m u z a k a sh i i
+
+ID: BASIC5000_0031
+#ERROR (#SUB #DEL #INS): 94 (24 70 0)
+REF: y o o sh i t a N r e i z u n o o m e i s e k i u N d o o sh i N k e e b a ts u g u N i e w a k a n e m o ch i d e ts u i d e n i g a k u s e e k a i n o f u k u k a i ch o o o sh i t e t a r i m o s u r u i w a y u r u p a a f e k u t o n a y a ts u d a <eos>
+HYP: o o n o f u r i i i n i n a k e N z a i n o k i h o N t e k i n a i m i d e a r u t o w a k a n i r a n a i
+
+ID: BASIC5000_0032
+#ERROR (#SUB #DEL #INS): 69 (22 47 0)
+REF: h a t a m e h a ch i m o k u t o y u u k o t o b a g a a r u y o o n i i ch i d o ky o o k a i k a r a h a n a r e t e n i h o N s a cl k a a o m i t e i t a d a k i t a i <eos>
+HYP: h a r i g a r i w a d e N ky i o ts u t a e r u u i g i m i i i r r a r u r u
+
+ID: BASIC5000_0033
+#ERROR (#SUB #DEL #INS): 50 (19 31 0)
+REF: b u ch o o n o ts u g o o g a w a r u k u n a cl t e sh i m a cl t a n o d e n o m i k a i n o n i cl t e e w a sh i k i r i n a o sh i d a n e <eos>
+HYP: n a i n e ts u n o k a b u k i n a n o d a sh i n o n o a a n a N d e s u k a
+
+ID: BASIC5000_0034
+#ERROR (#SUB #DEL #INS): 42 (24 18 0)
+REF: ny u u i N k a N j a w a i sh a n i m a s u i o ch u u sh a s a r e t e s u g u n i n e m u r i n i o ch i t a <eos>
+HYP: a sh sh i k u sh i t a s a r r u o t e N b u d e o k u t t e k u d a s a i
+
+ID: BASIC5000_0035
+#ERROR (#SUB #DEL #INS): 76 (32 0 44)
+REF: g o n o f u r u i i m i g a g e N z a i n o k i h o N t e k i n a i m i d e a r u t o w a k a g i r a n a i <eos>
+HYP: y o o sh i t a i d e e ts u n o o m e e s e k i n u d o N sh i N k e e k a ts u n a j n k n a r a i i e a k i n e m u n d e ts i y a n e n e k k u i k o k u k u k a i j i o sh sh i t a a a m i m a s u r e
+
+ID: BASIC5000_0036
+#ERROR (#SUB #DEL #INS): 43 (31 3 9)
+REF: gy o o g i n o w a r u s a w a k a r e n o ry o o sh i k i o u t a g a w a s e r u m o n o d a <eos>
+HYP: n u u i N N a N j a w a i sh i n i m a s u y y ch u u sh a s e r e t e s u u i n i n e r u n i o o o t i t a
+
+ID: BASIC5000_0037
+#ERROR (#SUB #DEL #INS): 64 (16 2 46)
+REF: h a r i g a n e w a d e N k i o ts u t a e r u n o n i m o ch i i r a r e r u <eos>
+HYP: h a t a r e h a ch i m o k u t o y u k k o t o g a a a r r i y o n n i j ch i j o o o o k a i k a r a h a r e r e t e n o o a N s a k k a N m t i t e i d a k e k i d a
+
+ID: BASIC5000_0038
+#ERROR (#SUB #DEL #INS): 36 (21 0 15)
+REF: h e b i o m i t a t o k i k a r e w a h i m e i o a g e t a <eos>
+HYP: y o o n i n a g a r u s a w a k a r e n o r o o sh i k i o t t a g a s a s e r u n o n o d a
+
+ID: BASIC5000_0039
+#ERROR (#SUB #DEL #INS): 53 (22 0 31)
+REF: a cl sh u k u sh i t a f a i r u o t e N p u d e o k u cl t e k u d a s a i <eos>
+HYP: b u ch o o n o ts u g o o w a w a k u k a t e sh t e sh i m a t t a n o d e n o m i k a i n o n i cl t e w w a sh i k i r i n a o sh i d a r e
+
+ID: BASIC5000_0040
+#ERROR (#SUB #DEL #INS): 27 (18 9 0)
+REF: r a i g e ts u n o k a b u k i z a n o d a sh i m o n o w a n a N d e s u k a <eos>
+HYP: h e r i o n i t a t o k i k a r e w a h i m e e o w w e t a
+
+ID: BASIC5000_0041
+#ERROR (#SUB #DEL #INS): 45 (19 26 0)
+REF: k i m a z u i ch i N m o k u n o a t o b i r u w a k a n o j o n o t e o t o cl t e u e n o k a i e h i cl p a cl t e i cl t a <eos>
+HYP: sh i g a i s e N w a h i h u u a k o o o o i o k o s u k o t o g a a r u
+
+ID: BASIC5000_0042
+#ERROR (#SUB #DEL #INS): 49 (22 27 0)
+REF: s a N b a N m e n o s o sh i t e m o cl t o m o j u u y o o n a k a N g a e w a s a i ny u u t o y u u k o t o d e a r u <eos>
+HYP: k i g a ts u k u t o n i m i r a w a d o k o n i m o n a k a cl t a
+
+ID: BASIC5000_0043
+#ERROR (#SUB #DEL #INS): 47 (40 3 4)
+REF: k i m a e n o y o i s o n o sh i k a i w a o y o s o n i j u u o k u e N o j i z e N j i gy o o n i k i f u sh i t a <eos>
+HYP: s a N b a N n e n o s o sh i t e m o cl t o m o j u u y o o n a k a g g a a w a s a i s a i n o y u u k o d o d e a r u
+
+ID: BASIC5000_0044
+#ERROR (#SUB #DEL #INS): 37 (24 13 0)
+REF: k o o z a N r o o d o o sh a g a ch i N a g e o y o o ky u u sh i t e s u t o n i t o ts u ny u u sh i t a <eos>
+HYP: k i b o o i a i o m e n o o m o i w a ts e cl t a i n i m i ts u k a n a n a i
+
+ID: BASIC5000_0045
+#ERROR (#SUB #DEL #INS): 30 (21 8 1)
+REF: sh i g a i s e N w a h i f u g a N o h i k i o k o s u k o t o g a a r u <eos>
+HYP: z e N t o o n i a r u a n o s a i g g a y o m e m a s u k a
+
+ID: BASIC5000_0046
+#ERROR (#SUB #DEL #INS): 47 (25 0 22)
+REF: k i b o o y a y u m e n o o m o i w a z e cl t a i n i m i ts u k a r a n a i <eos>
+HYP: k i g a z u i ch i m g o k u n a a t o t o t o t a r u r o j i n o d e t t o cl t e e r r o n a k k i i i t a cl t e i cl t a
+
+ID: BASIC5000_0047
+#ERROR (#SUB #DEL #INS): 41 (30 0 11)
+REF: k i n i i r o o g a i r u m a i g a k i m i w a i k a n e b a n a r a n a i <eos>
+HYP: k o o z a N d o o d o o sh a b a ch i g n n e n i o o j u u sh i t e s u t o m i t o ts u m i i sh i t a
+
+ID: BASIC5000_0048
+#ERROR (#SUB #DEL #INS): 4 (3 1 0)
+REF: k i n o y o w a i o t o k o g a b i j o o e t a t a m e sh i g a n a i <eos>
+HYP: k i n o y o w a i o t o k o g a m u j o o e e a t a m e sh i g a n a i
+
+ID: BASIC5000_0049
+#ERROR (#SUB #DEL #INS): 40 (15 1 24)
+REF: k i g a ts u k u t o n i g e b a w a d o k o n i m o n a k a cl t a <eos>
+HYP: k i m a i n o y o i s o n o sh i k a i w a y y o s u n i j u u o k u e N o ch i ts u N n i N o o n i k i r u sh i t a
+
+ID: BASIC5000_0050
+#ERROR (#SUB #DEL #INS): 28 (21 0 7)
+REF: z e N p o o n i a r u a n o s a i N g a y o m e m a s u k a <eos>
+HYP: k i n i y r o o g a i r u g a i g a k i g i w a i k a n e b a n a r a n a i
+
+ID: BASIC5000_0051
+#ERROR (#SUB #DEL #INS): 50 (23 27 0)
+REF: m i ts u b a ch i w a n i o i n o s a N p u r u o s u n i m o ch i k a e r u k o t o n i y o cl t e sh o k u ry o o n o a r i k a o ts u t a e r u <eos>
+HYP: m i n i s a k a a t o n a m o o i ch i d o k u k k a ts u s u r u t o o m o i m a s u k a
+
+ID: BASIC5000_0052
+#ERROR (#SUB #DEL #INS): 45 (34 3 8)
+REF: y o sh i o w a s e e k a k u w a h a h a o y a n i y o o b o o w a ch i ch i o y a n i n i t e i r u <eos>
+HYP: k i i k a k u o t a t e r u k o t o t o s o r u o j i k k o o s u r u k o t o w a d e ts u n o N d a i d e s u
+
+ID: BASIC5000_0053
+#ERROR (#SUB #DEL #INS): 42 (28 14 0)
+REF: m i r o n o b i i n a s u g a k a N z e N d e a cl t a t o k i n i w a z o o n i w a u d e m o ts u i t e i t a <eos>
+HYP: m i d e a m u r e a n i sh i t e d o t o b o d t i o o t u ts u k i t e k u d a s a i
+
+ID: BASIC5000_0054
+#ERROR (#SUB #DEL #INS): 40 (17 23 0)
+REF: k e e k a k u o t a t e r u k o t o t o s o r e o j i cl k o o s u r u k o t o w a b e ts u m o N d a i d e s u <eos>
+HYP: k e N k o o t o k o t i i w a i o i i o i i i m a k i g a ts u k u
+
+ID: BASIC5000_0055
+#ERROR (#SUB #DEL #INS): 53 (24 1 28)
+REF: m i d i a m u r e a n i sh i t e p o t e t o o h i t o ts u ts u k e t e k u d a s a i <eos>
+HYP: m i ts u b a ch i w a i i y r r o y a N s a N u t s u s i w o ch i k a r r u k o t o n i y o cl t e h o o u r o k k i y n a a a r k u k a ts t u
+
+ID: BASIC5000_0056
+#ERROR (#SUB #DEL #INS): 33 (21 11 1)
+REF: m i n i s u k a a t o g a m o o i ch i d o f u cl k a ts u s u r u t o o m o i m a s u k a <eos>
+HYP: m i cl k u w a s o n o k o d o m o o r i g i y d o t o n a z u k e t a
+
+ID: BASIC5000_0057
+#ERROR (#SUB #DEL #INS): 13 (12 1 0)
+REF: m i m i z u o f u m u t o a m e g a f u r u t o y u u h i t o g a i r u <eos>
+HYP: m i m u z u o o u b u t o w r e a a m u g o f o r u u r i t o g a i r u
+
+ID: BASIC5000_0058
+#ERROR (#SUB #DEL #INS): 37 (20 1 16)
+REF: g e N k o o t o k o p i i w a y o o i n i m i w a k e g a ts u k u <eos>
+HYP: y o sh i o w a s e e k i k u w a h a h a i y a n i y o o n o o b a u i o i w ch u k i e i n e i r u
+
+ID: BASIC5000_0059
+#ERROR (#SUB #DEL #INS): 29 (23 4 2)
+REF: m i cl k u w a s o n o k o d o m o o r i ch a a d o t o n a z u k e t a <eos>
+HYP: m e e w a k u o w k a i i sh i m e m o sh sh i w a k e r r i m a s e N
+
+ID: BASIC5000_0060
+#ERROR (#SUB #DEL #INS): 41 (21 0 20)
+REF: m e e w a k u o o k a k e sh i t e m o o sh i w a k e a r i m a s e N <eos>
+HYP: m i r o n o b i N n a s u g a k a N z e N d a a t t a t o k i n i w a z o o n i w a u d e m o ts u i t e i t a
+
+ID: BASIC5000_0061
+#ERROR (#SUB #DEL #INS): 74 (19 55 0)
+REF: b u N s e k i n i o i t e w a k u r u ts u n i y o cl t e s a i sh o n i b u N s e k i s a r e t a k e N i t e k i k o o d o o n o r u i k e e n i o cl t e i r u b u b u N g a o o k i i <eos>
+HYP: m i r u t o n n o s a k u h i N o i o N d a k o t o g a a r i m a s u k a
+
+ID: BASIC5000_0062
+#ERROR (#SUB #DEL #INS): 51 (41 10 0)
+REF: hy o o t a N k a r a k o m a cl t e y u u n o k a n a ch i j i N n o sh o o k a i d e sh u u sh o k u k i m a cl ch a cl t a N d a y o <eos>
+HYP: m i r a s s e e s e w w a a t a t a n i sh i b a r a k u m a cl t e m o r a i t a i t o o m o cl t e i m a s u
+
+ID: BASIC5000_0063
+#ERROR (#SUB #DEL #INS): 41 (13 27 1)
+REF: m i i t i N g u n i a n a o a k e t e sh i m a cl t a k o t o n i t a i sh i s a i d o o w a b i sh i m a s u <eos>
+HYP: m u u j i k a r u w a n i n a k a cl t a n o d e s u k a
+
+ID: BASIC5000_0064
+#ERROR (#SUB #DEL #INS): 34 (16 17 1)
+REF: m i r a a s e N s e e w a a n a t a n i sh i b a r a k u m a cl t e m o r a i t a i t o o m o cl t e i m a s u <eos>
+HYP: k u s a b a n a n i ts u i t e m o cl t o sh i r i t a i t o o m o i m a sh i t a
+
+ID: BASIC5000_0065
+#ERROR (#SUB #DEL #INS): 45 (29 1 15)
+REF: d o r o d a r a k e n o a sh i d e i m a o d o t a d o t a a r u i t e w a i k e n a i <eos>
+HYP: h o o t a N k a r a k o m a cl t e i u u n o k a n a g a g u N t o j i j j i N sh o sh o k k i d e d e r o sh t i N t a
+
+ID: BASIC5000_0066
+#ERROR (#SUB #DEL #INS): 37 (31 5 1)
+REF: h i n a t a n i s u w a cl t e i r u n o n i w a t a sh i w a m a d a s a m u k e g a sh i t a <eos>
+HYP: d o r o d a r a k e n o a sh i n e i m a i t o o o d a d a r r u i t e w a i k e n a i
+
+ID: BASIC5000_0067
+#ERROR (#SUB #DEL #INS): 37 (20 1 16)
+REF: m i N w a s a k u y a t o m o d a ch i n i d e N w a o k a k e m a sh i t a <eos>
+HYP: m i N N e N g u n i a a a a a t e t e n i m a cl t a k o t o n i t a i sh i s a i n o k k a r a t i m a s u
+
+ID: BASIC5000_0068
+#ERROR (#SUB #DEL #INS): 31 (23 1 7)
+REF: k u s a b a n a n i ts u i t e m o cl t o sh i r i t a i t o o m o i m a sh i t a <eos>
+HYP: h i n a t a n i s u w a cl t e i r u n o n i w a t a sh i w a m a d a s a n o k e N a sh i t a
+
+ID: BASIC5000_0069
+#ERROR (#SUB #DEL #INS): 29 (18 6 5)
+REF: m i r u t o N n o s a k u h i N o y o N d a k o t o g a a r i m a s u k a <eos>
+HYP: m i N w a h a k i n o k o k i t a m o t a ts a n d a y k a w a w a sh i t a
+
+ID: BASIC5000_0070
+#ERROR (#SUB #DEL #INS): 72 (11 0 61)
+REF: my u u j i k a r u w a m i n a k a cl t a n o d e s u k a <eos>
+HYP: f u N s e k i n i o t t e w a k u r u k u n i n o o t e s a i sh o b i b u N s e k i s a r e t a k e i n i e i i k o o d o o n o r u i k i i n i o cl t e i r u b u N u g o a o o k i
+
+ID: BASIC5000_0071
+#ERROR (#SUB #DEL #INS): 57 (12 45 0)
+REF: y a m i y o n i t e cl p o o j a a r u m a i sh i s o N n a b a a t a r i t e k i n a y a r i k a t a d e u m a k u i k u t o w a o m o e n a i y o <eos>
+HYP: s a r u n a r a o i w a n a k e r e b a n a r i m a s e N
+
+ID: BASIC5000_0072
+#ERROR (#SUB #DEL #INS): 44 (30 13 1)
+REF: h i sh a t a i n i k i z u k a r e n a i y o o n i s o o cl t o k a m e r a o t o r i d a sh i f a i N d a a o n o z o k u <eos>
+HYP: s a r a n i y o o o k a r a m i r u t o w a t m a r a b o w t a t a cl o o j a i n i n r i m a s u
+
+ID: BASIC5000_0073
+#ERROR (#SUB #DEL #INS): 41 (27 8 6)
+REF: j o o ky u u k a N r i sh o k u w a b u k a n o ky o o i k u n i o o k u n o j i k a N o ts u i y a s u <eos>
+HYP: s a r i n e n a k u s a t a i k o n o k o n i w a f k u k u ch a k o t o w a t o t e m o i e e a i
+
+ID: BASIC5000_0074
+#ERROR (#SUB #DEL #INS): 43 (35 7 1)
+REF: s a r a n i y o k o k a r a m i r u t o m a e b a w a d e cl p a n o j o o t a i n i a r i m a s u <eos>
+HYP: j o o d a n n i sh i o o o o o k u o u r a n a sh i r o k e N sh i t e sh t u o s o u y o d
+
+ID: BASIC5000_0075
+#ERROR (#SUB #DEL #INS): 36 (26 10 0)
+REF: s a r i g e n a k u s a t o i k o n o k o n i w a u k a ts u n a k o t o w a t o t e m o i e n a i <eos>
+HYP: s a m o n a i t o k i r u r e n o m a i n i s o k o n i ts u k e n a i d e sh o o
+
+ID: BASIC5000_0076
+#ERROR (#SUB #DEL #INS): 57 (27 0 30)
+REF: j o o d a N n i sh i r o ky o o f u k a r a n i sh i r o k e cl sh i t e u s o o y u u n a <eos>
+HYP: sh a t a t a i n i k u z u k a r e n a i y o o n i s o o cl t a k a r e r a o t o i i d a sh i i a N n p a i i n o o o n o n o o o o o o o o o o o o o
+
+ID: BASIC5000_0077
+#ERROR (#SUB #DEL #INS): 55 (25 0 30)
+REF: t a i h e e y o o w a s e k a i d e i ch i b a N o o k i n a t a i y o o d e s u <eos>
+HYP: i a m i y o n i t e b p o o j a r r u m a i sh i N o N n o s a r r o r i n o i u n o i o r i o a n o i e i k o i i n t a n o n a y i i i n i i
+
+ID: BASIC5000_0078
+#ERROR (#SUB #DEL #INS): 30 (24 6 0)
+REF: s a m o n a i t o h i g u r e n o m a e n i s o k o n i ts u k e n a i d e sh o o <eos>
+HYP: s a N z a N s e o a o sh i t a n o n i n a N d o o i s a ts u n o n a i
+
+ID: BASIC5000_0079
+#ERROR (#SUB #DEL #INS): 30 (26 0 4)
+REF: s a N z a N s e w a o sh i t a n o n i n a N n o a i s a ts u m o n a i <eos>
+HYP: t a i h e e y o o w a s e k i i k e i i i b a N k k k i n a t a i y o o d e s u
+
+ID: BASIC5000_0080
+#ERROR (#SUB #DEL #INS): 40 (16 2 22)
+REF: s a y o n a r a o i w a n a k e r e b a n a r i m a s e N <eos>
+HYP: j o o k u u k a N n i sh o k u w a b u u a n o ky o o i k u n i o o k u n o j i k a o o ts u i i a s u
+
+ID: BASIC5000_0081
+#ERROR (#SUB #DEL #INS): 74 (16 58 0)
+REF: s e N s e e g a k u w a k a g a k u t e k i n a k o N ky o m o n a i n o n i t o t e m o n i N k i g a a cl t e s e N s e e g a k u w a sh i N j i t e i r u h i t o g a o o i y o o d e s u <eos>
+HYP: z e N b o n o k a k u s e N w a s o k o o e cl t a w a k e d e w a n a i
+
+ID: BASIC5000_0082
+#ERROR (#SUB #DEL #INS): 60 (17 43 0)
+REF: g a r u f u p o o t o d e i ch i b a N n o f u r a i d o ch i k i N t o i cl t a r a s o r e w a m o o o b a a ch a N n o d a i d o k o r o d e s u y o <eos>
+HYP: a t a t a k a i n o m i m o n o o k o y o o sh sh i m a sh o o k a
+
+ID: BASIC5000_0083
+#ERROR (#SUB #DEL #INS): 50 (42 8 0)
+REF: s e e m e e n o t o o t o s a o k a N g a e t a k o t o n o n a i h i t o w a i g a k u o k o k o r o z a s u b e k i d e w a n a i <eos>
+HYP: k a cl t o n o sh i N k e ts u n i a N w a k a n a n i n o sh o o d e k i w a t a e r u k a n o o s e e g a a r i m a s u
+
+ID: BASIC5000_0084
+#ERROR (#SUB #DEL #INS): 50 (42 7 1)
+REF: g a cl t o n o sh i N k e ts u g i a N w a k a n a r i n o sh o o g e k i o a t a e r u k a n o o s e e g a a r i m a s u <eos>
+HYP: ch i k o k u n o k o t o g a n i ts u i t e i k u r i k u r i cl sh e k o sh i r i s u g i r u k o t o w a n a i
+
+ID: BASIC5000_0085
+#ERROR (#SUB #DEL #INS): 43 (29 14 0)
+REF: j i k o k u n o k o t o b a n i ts u i t e i k u r a k a sh i cl t e m o sh i r i s u g i r u k o t o w a n a i <eos>
+HYP: u u N m e e w a i m a i a i u k a k e N s o o n i o o o r a k a s a r e t e i r u
+
+ID: BASIC5000_0086
+#ERROR (#SUB #DEL #INS): 70 (26 1 43)
+REF: g a r i r e o w a f u t a ts u n o t e ts u n o t a m a o t o o n o t e cl p e N k a r a o t o sh i t a <eos>
+HYP: s e e s e e g a k u w a k u g u k u t e k i n a k o N k o o o n a i n o n i t o k o m o m o m n i g a g cl t e i e e g e e n a s e g a k i w sh i N e i t u r i t o g a o o i y o o d e s u
+
+ID: BASIC5000_0087
+#ERROR (#SUB #DEL #INS): 35 (27 5 3)
+REF: b u N m e e w a i m a y a k a k u s e N s o o n i o b i y a k a s a r e t e i r u <eos>
+HYP: a N n o j o o n n o d o d d i t a o cl i o o i t a n a k i ts u i t e k i t a i o
+
+ID: BASIC5000_0088
+#ERROR (#SUB #DEL #INS): 47 (22 0 25)
+REF: a N n o j o o a n o gy o o sh a ky o o n i n a cl t e n a k i ts u i t e k i t a y o <eos>
+HYP: s e e n e e n o t o o t o s a k k a N g a t t a k o t o n o n a i h i t o w a i k a k u o k o k o r o z a s u b e k i d e w a n a i
+
+ID: BASIC5000_0089
+#ERROR (#SUB #DEL #INS): 56 (21 0 35)
+REF: z e N b u n o g a k u s e e g a s o k o e i cl t a w a k e d e w a n a i <eos>
+HYP: g a r u u u t o t t o i e ch ch u b a n d o f u r a i d o ch i k i N t a i cl t a r a s o o u w a m o o k k a b k i n n o d a i d o k o r o d e s u
+
+ID: BASIC5000_0090
+#ERROR (#SUB #DEL #INS): 36 (19 0 17)
+REF: a t a t a k a i n o m i m o n o o g o y o o i sh i m a sh o o k a <eos>
+HYP: g a r i d e o w a f u t a t u n o t e ts u n o t a m a o o o o t o t e cl t e N k a r a o t o sh i t a
+
+ID: BASIC5000_0091
+#ERROR (#SUB #DEL #INS): 28 (19 5 4)
+REF: h a ts u t a i k e N n o a i t e w a t o sh i u e n o j o s e e d a cl t a <eos>
+HYP: k a r a s u n o h a ch i w a k o n o n o n a n i n a cl t e sh i m a cl t a
+
+ID: BASIC5000_0092
+#ERROR (#SUB #DEL #INS): 40 (20 19 1)
+REF: s u b e t e o s u t e t e k o n o r e s u t o r a N o y a r u m o k u t e k i w a h i t o ts u d a k e d e sh i t a <eos>
+HYP: b o o t o w a k i r u n a k a r a k o o s e e t e k i n i h a i y o s a r e t a
+
+ID: BASIC5000_0093
+#ERROR (#SUB #DEL #INS): 30 (20 9 1)
+REF: t a n a o k a t a z u k e n a s a i s o o s u r e b a h o N o s o k o e o k e m a s u <eos>
+HYP: h a ch u t a i k e N n a a i t e w a t o sh i cl u z o z o o e e k e d t a
+
+ID: BASIC5000_0094
+#ERROR (#SUB #DEL #INS): 36 (22 13 1)
+REF: u w a y a k u n i h a N t a i s u r u k o t o w a k a r e m o y u u k i n o a r u o t o k o d a <eos>
+HYP: d a ky o o s u r u n o w a w a t a sh i n o sh i m i n i h a N sh i t e i r u
+
+ID: BASIC5000_0095
+#ERROR (#SUB #DEL #INS): 14 (13 1 0)
+REF: k e e z a i g a k u n o h o N o g o s a ts u r o N d o N n i ch u u m o N sh i t a <eos>
+HYP: k e e z a i g a k u n o h o o g g o k o o u s u n d o o d o n i u m o N sh i t a
+
+ID: BASIC5000_0096
+#ERROR (#SUB #DEL #INS): 31 (23 8 0)
+REF: g a N w a a r u sh u n o u i r u s u t o k a N k e e g a a r u k a m o sh i r e n a i <eos>
+HYP: g a a d e N s u N s u o sh i k u k k a i h a ch u sh i t e k u d a s a i
+
+ID: BASIC5000_0097
+#ERROR (#SUB #DEL #INS): 33 (30 1 2)
+REF: b o o t o w a h i r o b a k a r a ky o o s e e t e k i n i h a i j o s a r e t a <eos>
+HYP: g a a w a a r a h i sh o n r r i i u r o k i N k e N N a a r u k a m u sh i r e n a i
+
+ID: BASIC5000_0098
+#ERROR (#SUB #DEL #INS): 44 (25 0 19)
+REF: d a ky o o s u r u n o w a w a t a sh i n o sh u g i n i h a N sh i t e i r u <eos>
+HYP: s u b e t o o s u t e t e k o n o r e s u t o r a o y y a r u k o t e t e w i w a t o t o ts u d a k e d e sh i t a
+
+ID: BASIC5000_0099
+#ERROR (#SUB #DEL #INS): 39 (27 0 12)
+REF: g a a d e N f e N s u o sh i ky u u h a i t a ts u sh i t e k u d a s a i <eos>
+HYP: u w a y a k u n i h a N t a i s u r u k o t o w a k a r e m o y u u k i n a a r u o t o k o d a
+
+ID: BASIC5000_0100
+#ERROR (#SUB #DEL #INS): 37 (31 0 6)
+REF: g a r a s u n o h a ch i w a k o n a g o n a n i n a cl t e sh i m a cl t a <eos>
+HYP: t a g a o k a t a z u k e n a s a i s o o s o e e r e r o o g h o N u s k k e e o k e
+
+ID: BASIC5000_0101
+#ERROR (#SUB #DEL #INS): 49 (32 17 0)
+REF: n a N j i j i sh i N n i sh i N j i ts u d e a r e n a N j i m i z u k a r a t a n i N n i i ts u w a r i n a k i g o t o k u <eos>
+HYP: ts a cl t o m i ts u m o cl t e s o n o s i t o sh o m a t i sh u u k a N k a k a r u d a r o o
+
+ID: BASIC5000_0102
+#ERROR (#SUB #DEL #INS): 50 (40 10 0)
+REF: z o o k a s u r u j u y o o n i o o j i r u t a m e a m e r i k a k a r a gy u u n i k u o ts u i k a s u r u k e e k a k u d a <eos>
+HYP: ch u u sh o k u n o t a m e e u ch ch i j i k a i a i j i j i m a d e i ch i k i k a n n o y a s u g i a a a r u
+
+ID: BASIC5000_0103
+#ERROR (#SUB #DEL #INS): 46 (31 15 0)
+REF: ky o o z a m e n o h i t o m o y o k u sh i r u y o o n i n a r u t o k a n a r a z u sh i m o f u k a i d e w a n a i <eos>
+HYP: sh a ch u u n i w a s u k u n a k u t o m o k o n i N n o j o o t a k u g a i m a sh i t a
+
+ID: BASIC5000_0104
+#ERROR (#SUB #DEL #INS): 51 (42 0 9)
+REF: sh a ry o o w a k e cl k a N g a n a i k a s a i t e e s a N k a g e ts u n i i cl k a i k e N s a s a r e r u <eos>
+HYP: o o k k u s u r u j i o o o n i o j j u t a m a m e a m e r i k a k a r u j u u n i k u o ts u i k a s u r u k e e k a k u d a
+
+ID: BASIC5000_0105
+#ERROR (#SUB #DEL #INS): 45 (33 7 5)
+REF: k a N d a N n a i b u cl k a j o o sh o o n o k e cl k a sh a k a i f u a N g a o k o r u k a m o sh i r e n a i <eos>
+HYP: sh a r o o w a k e cl k a N g a n a i k a s a i s a i t e i s a k a ts u n i i cl k a i k i N s a s a r e r u
+
+ID: BASIC5000_0106
+#ERROR (#SUB #DEL #INS): 50 (40 2 8)
+REF: ch u u sh o k u n o t a m e j u u n i j i k a r a i ch i j i m a d e i ch i j i k a N n o y a s u m i g a a r u <eos>
+HYP: n a N j i j i sh i N n i sh i N j i ts u d e a r e n a i d i N a j u m u n e r a k i n n i i ts u w a r i n a ch u n o t o k u
+
+ID: BASIC5000_0107
+#ERROR (#SUB #DEL #INS): 44 (28 2 14)
+REF: z a cl t o m i ts u m o cl t e s o n o sh i g o t o w a n i sh u u k a N k a k a r u d a r o o <eos>
+HYP: ky o o n a m e n i h i t o m o y o k u sh i r u y o o n i n a r u t o k a r o k e g u g i n a n u k u k k e d a n a i
+
+ID: BASIC5000_0108
+#ERROR (#SUB #DEL #INS): 40 (29 1 10)
+REF: sh a ch u u n i w a s u k u n a k u t o m o g o n i N n o j o o ky a k u g a i m a sh i t a <eos>
+HYP: k a N d a N n a i b u cl k a j o o sh o o n a k e cl t a t a t a sh k u y r w a g k a r u k a m e sh i r e n a i
+
+ID: BASIC5000_0109
+#ERROR (#SUB #DEL #INS): 2 (1 1 0)
+REF: f u k u r o w a t o o m o r o k o sh i d e h a ch i k i r e s o o d a cl t a <eos>
+HYP: f u k u r o o a t o o m o r o k o sh i d e h a ch i k i r e s o o d a cl t a
+
+ID: BASIC5000_0110
+#ERROR (#SUB #DEL #INS): 2 (1 1 0)
+REF: n i y a r i t o w a r a cl t e s a N s e e n o i sh i o sh i m e sh i t a <eos>
+HYP: n i y a r i t o w a r a cl t e s a N s e e n i i sh i o sh i m e sh i t a
+
+ID: BASIC5000_0111
+#ERROR (#SUB #DEL #INS): 47 (41 1 5)
+REF: m a cl t a k u g u u z e N n i w a t a sh i w a m u k a sh i n o y u u j i N t o k u u k o o d e d e a cl t a <eos>
+HYP: s a i n o n o sh i d a N t o sh i t e w a i ts u i e ts o sh o o o g g o r e m a r e r u t o k a r e w a k a N g a a t a
+
+ID: BASIC5000_0112
+#ERROR (#SUB #DEL #INS): 49 (18 31 0)
+REF: f u y u b a n i a t a t a k a i k a cl k o o o sh i t e i n a i t o k e cl ky o k u h i d o i k a z e o h i k u h a m e n i n a r u <eos>
+HYP: n i w a t o r i g a t a b e m o n o o s a g a sh i t e i m a sh i t a
+
+ID: BASIC5000_0113
+#ERROR (#SUB #DEL #INS): 47 (41 6 0)
+REF: s a i g o n o sh u d a N t o sh i t e w a i ts u d e m o sh o k u o y a m e r a r e r u t o k a r e w a k a N g a e t a <eos>
+HYP: m a cl t a k u g u z z e N n i w a t a sh i w a m o k a sh i n o y u u j i N t o o u u u u o d e d e a cl t a
+
+ID: BASIC5000_0114
+#ERROR (#SUB #DEL #INS): 41 (31 10 0)
+REF: ky o o sh i w a s e e t o g a sh i k e N d e k a N n i N g u o sh i t e i r u n o o m i ts u k e t a <eos>
+HYP: s a N d e N t o y u u w a n a n a i i i k a N d a t o w a t a sh i w a o m o r
+
+ID: BASIC5000_0115
+#ERROR (#SUB #DEL #INS): 34 (23 11 0)
+REF: sh u m i w a n i ch i j o o s e e k a ts u n o k u r o o o w a s u r e s a s e t e k u r e r u <eos>
+HYP: n i N n i k u o o o o j u N j i sh e a a m e r e b a t a m e n i n a r u
+
+ID: BASIC5000_0116
+#ERROR (#SUB #DEL #INS): 50 (29 0 21)
+REF: k o o ch o o w a s o ts u gy o o s e e h i t o r i h i t o r i t o a k u sh u o sh i t a <eos>
+HYP: f u r u b a n i a t a t a k a i k a cl k o o sh sh i t e i n a i t o k e cl k o k u k i h o i i i i e e s i k u g a m e n i n a r u
+
+ID: BASIC5000_0117
+#ERROR (#SUB #DEL #INS): 42 (36 0 6)
+REF: s a N n e N t o y u u w a n a g a i j i k a N d a t o w a t a sh i w a o m o u <eos>
+HYP: sh i m i w a j i m i j o o s e e k a ts u n o k u r u o o s a s u r e s u s e t e k u r e r u
+
+ID: BASIC5000_0118
+#ERROR (#SUB #DEL #INS): 39 (26 1 12)
+REF: n i N n i k u o y o o j i N sh i t e t a b e r e b a t a m e n i n a r u <eos>
+HYP: ky o o sh i w a s e e k e r o sh i t i t d e k a N n i N o o o sh i t e i r u n o o m i ts u t e t a
+
+ID: BASIC5000_0119
+#ERROR (#SUB #DEL #INS): 9 (8 1 0)
+REF: t e ch o o n i o n a m a e o k a i t e i t a d a k e m a s e N k a <eos>
+HYP: t e ch o o g i o o a g a m h h a k k e i t a d a k e m a s e N k a
+
+ID: BASIC5000_0120
+#ERROR (#SUB #DEL #INS): 31 (20 2 9)
+REF: n i w a t o r i g a t a b e m o n o o s a g a sh i t e i m a sh i t a <eos>
+HYP: k o o ch o o w a s o ts u i i y s a e h i t o r i h i t o r i t o w k u sh o o sh i t a
+
+ID: BASIC5000_0121
+#ERROR (#SUB #DEL #INS): 59 (32 26 1)
+REF: h o o g e k i w a m a s u m a s u h a g e sh i k u n a cl t e k i t a n o d e w a t a sh i t a ch i h a sh i cl t e ch i k a sh i ts u n i o r i t e i cl t a n o y o <eos>
+HYP: y a m a d a k u w w a j i b u N n o b o s u n i t a i s u r i i k a r i o o s a i y o o t o ts u t o m e t a
+
+ID: BASIC5000_0122
+#ERROR (#SUB #DEL #INS): 60 (18 42 0)
+REF: k a k a r i ch o o g a ky u u n i y a m e t e sh i m a cl t a n o d e w a t a sh i g a s o n o a n a o u m e n a k e r e b a n a r a n a k u n a cl t a <eos>
+HYP: e N p u ts u w a i k i k a d r a t a i i i e y r u r e t e i r u
+
+ID: BASIC5000_0123
+#ERROR (#SUB #DEL #INS): 39 (18 21 0)
+REF: k a k a r i i N g a u n a z u i t a n o d e k a n o j o w a k o g i cl t e o k a k i s o r e o t e w a t a sh i t a <eos>
+HYP: t a t a k i i w a ts u y o o r o n o n a k a ch u t o w a k a n i r a n a i
+
+ID: BASIC5000_0124
+#ERROR (#SUB #DEL #INS): 41 (30 11 0)
+REF: y a m a d a k u N w a j i b u N n o b o s u n i t a i s u r u i k a r i o o s a e y o u t o ts u t o m e t a <eos>
+HYP: i cl p o n n a t a k a i k i r a s u i i e e n i n a r a i k a n e o ts ts u sh i t e i r u
+
+ID: BASIC5000_0125
+#ERROR (#SUB #DEL #INS): 17 (16 1 0)
+REF: y o s a N w a f u s e e k a k u d e sh i k a m o h i g e N j i ts u t e k i n i o m o e r u <eos>
+HYP: y o s a N w a s u s e e k a k u d e sh i k a k a r i N a N k i k u N e ts i t i k n i i m u
+
+ID: BASIC5000_0126
+#ERROR (#SUB #DEL #INS): 33 (23 8 2)
+REF: s a i sh i w a h i t o b i t o o d o o t o k u t e k i n i t a k a m e y o u t o sh i t a <eos>
+HYP: i m a w a t a sh i w a r u g a w f o r u r o n i m n i n a cl t e k i t e i r u
+
+ID: BASIC5000_0127
+#ERROR (#SUB #DEL #INS): 56 (28 0 28)
+REF: i cl p o N n o t a k a i k i g a s u i m e N n i n a g a i k a g e o u ts u sh i t e i r u <eos>
+HYP: k a k a r i ch o o b a k u u n i y a m e t e sh i m a cl t a n o d e w a t a sh i g a s o n o a n a o u m e r a k e r e b a n a r a n a k u cl a cl t a
+
+ID: BASIC5000_0128
+#ERROR (#SUB #DEL #INS): 44 (25 1 18)
+REF: i m a w a t a sh i w a f u r u u t o n i m u ch u u n i n a cl t e k i t e i r u <eos>
+HYP: k a k a r i i N g a u n a z u i t a n o d e k a n o j o w a k o d i cl t e k k a cl i cl o r e o t e w a t a sh i t a
+
+ID: BASIC5000_0129
+#ERROR (#SUB #DEL #INS): 34 (28 0 6)
+REF: t a t a k a i w a ts u y o i m o n o g a k a ts u t o w a k a g i r a n a i <eos>
+HYP: s a i sh i w a h i t o t o t o t t o o t o k u t e k i n i t a k a m e e o o t o sh i t a
+
+ID: BASIC5000_0130
+#ERROR (#SUB #DEL #INS): 62 (17 0 45)
+REF: e N p i ts u w a i ch i d a a s u t a N i d e u r a r e t e i r u <eos>
+HYP: k o o g i k i w a m a s u m a s a h a d e sh i k u n a cl t e k i t a n o d e w a t a sh i t a ch i ch a i i cl t a i i cl a ch i sh u n i o r i t e i t t a n o y o
+
+ID: BASIC5000_0131
+#ERROR (#SUB #DEL #INS): 48 (23 25 0)
+REF: f u k a cl p a ts u n a k o d o m o w a k u u s o o n o s e k a i n i t o j i k o m o r u k e e k o o g a z u cl t o ts u y o i <eos>
+HYP: i m a a i t o t i r i o o n a n o t i t o g a s a i cl t e i k i m a sh i t a
+
+ID: BASIC5000_0132
+#ERROR (#SUB #DEL #INS): 47 (16 31 0)
+REF: ts u k i h i g a d o N d o N s u g i t e i cl t a g a k a r e n o sh o o s o k u w a n a n i m o k i k o e t e k o n a k a cl t a <eos>
+HYP: a sh i y y o N u n i ts u k e t e i o o o o e o o t o sh i n a s a i
+
+ID: BASIC5000_0133
+#ERROR (#SUB #DEL #INS): 51 (36 8 7)
+REF: ky o o sh u k u d e s u g a n i g a ts u n i j u u n a n o k a n o y a k u s o k u o ky a N s e r u s a s e t e k u d a s a i <eos>
+HYP: f u k a cl t a ts u n a k o n o m o w a f u u s o o n o s e k a i n i t o j u b o r o r u k e e k o o g a ts u cl t o y u y o
+
+ID: BASIC5000_0134
+#ERROR (#SUB #DEL #INS): 7 (6 1 0)
+REF: g o k a g e ts u b u N n o p i r u k u d a s a i t o i cl t e w a k a r i m a sh i t a t o i w a r e t a <eos>
+HYP: g o k a m e ts u b u N n o b u r u k u d a s a i cl o i cl t e i a k a r e m a sh i t a t o i w a r e t a
+
+ID: BASIC5000_0135
+#ERROR (#SUB #DEL #INS): 48 (36 0 12)
+REF: ch i n a m i n i s o r e w a k o n o h a n a sh i n o g o j i ts u d a N n i s u r u y o t e e d e s u <eos>
+HYP: ts u k i h a d a N o d d o s s u i e t e i b t a g a k a r e n o sh o o s o k u w a n a n i m o ch i o o t t o k o n a k a cl t a
+
+ID: BASIC5000_0136
+#ERROR (#SUB #DEL #INS): 44 (41 0 3)
+REF: i cl ch i d a N k e ts u sh i t e n a n i k a a t a r a sh i i k o t o o y a r o o j a n a i k a <eos>
+HYP: sh i n a m i n i s o r u w a k o n o h a n a sh i n o o o j i ts u d a n n i s u r u y o e e e d e s u
+
+ID: BASIC5000_0137
+#ERROR (#SUB #DEL #INS): 35 (29 6 0)
+REF: i m a h i t o r i n o o N n a n o h i t o g a h a i cl t e i k i m a sh i t a y o <eos>
+HYP: d o o j o u j i b ts u ts u g a g g a k u w a r i r u r a r e t e i t a
+
+ID: BASIC5000_0138
+#ERROR (#SUB #DEL #INS): 35 (23 0 12)
+REF: a sh i o m i z u n i ts u k e t e y o g o r e o o t o sh i n a s a i <eos>
+HYP: i cl ch i d a N k e ts u sh i t e n a n i k a t t a r a sh i i k o t o o y a r u j n i n a i k a
+
+ID: BASIC5000_0139
+#ERROR (#SUB #DEL #INS): 45 (20 0 25)
+REF: t o o j o o j i N b u ts u g a u m a k u w a r i f u r a r e t e i t a <eos>
+HYP: ky o o sh i k i d e s u g a n i g a ts u n i j u u n a n o k a n o y a k u k o o u o k a N s e r u s a s e t e k u d a s a i
+
+ID: BASIC5000_0140
+#ERROR (#SUB #DEL #INS): 3 (2 1 0)
+REF: o g e N k i d e o s u g o sh i n o k o t o t o o m o i m a s u <eos>
+HYP: o d e N k i d o o s u g o sh i n o k o t o t o o m o i m a s u
+
+ID: BASIC5000_0141
+#ERROR (#SUB #DEL #INS): 42 (33 8 1)
+REF: o o k a m i g a i n u n i n i t e i r u y o o n i o b e cl k a ts u k a i w a t o m o d a ch i n o y o o n i m i e r u <eos>
+HYP: k a m i n a r i g a i m a n i m o o ch i s o o n a h a n e sh i y o t o d e k o r o r o r o t o d a cl t a
+
+ID: BASIC5000_0142
+#ERROR (#SUB #DEL #INS): 2 (1 1 0)
+REF: o n i i s a N o k o ky u u s a s e r u t a m e n i i sh a n i s o n o k i k a i o ts u k a cl t e m o r a i t a i t o o m o i m a s u k a <eos>
+HYP: o n i i s a N o k o ky u u s a s e r u t a m e n i i sh a n i s o n o k i k a y o ts u k a cl t e m o r a i t a i t o o m o i m a s u k a
+
+ID: BASIC5000_0143
+#ERROR (#SUB #DEL #INS): 38 (30 7 1)
+REF: k a m i n a r i g a i m a n i m o o ch i s o o n a h a g e sh i i o t o d e g o r o g o r o t o n a cl t a <eos>
+HYP: m a m o g a k u r u w o w a k a r e n a h a i r e r o d o d o b u r u k u n a r i m a sh i t a
+
+ID: BASIC5000_0144
+#ERROR (#SUB #DEL #INS): 8 (7 1 0)
+REF: ts u k i ry o k o o n a N t e k a ts u t e w a t o h o o m o n a i k o t o t o k a N g a e r a r e t a <eos>
+HYP: s u k i r o k o n n a N t e k a k u t e w a t o h o o m o n a i k o t o t a k a g g a r r a r e t a
+
+ID: BASIC5000_0145
+#ERROR (#SUB #DEL #INS): 35 (23 12 0)
+REF: k a m i n a r i n i o d o r o i t a ky o o k o g a o r e n i sh i g a m i ts u i t e k i t a <eos>
+HYP: g o m a e r u w a k i k u n i k k u n i t e k i sh i t a k o r i d a
+
+ID: BASIC5000_0146
+#ERROR (#SUB #DEL #INS): 37 (28 6 3)
+REF: m a m o n a k u f u r o w a k a r e g a h a i r e r u h o d o n u r u k u n a r i m a sh i t a <eos>
+HYP: k a m i d a r i n o o d o r i t t a k o k k a g a u r o r i sh i g a m i ts u i t e k i t a
+
+ID: BASIC5000_0147
+#ERROR (#SUB #DEL #INS): 45 (27 0 18)
+REF: k e N b i ky o o t o b o o e N ky o o n o ch i g a i g a w a k a r i m a s u k a <eos>
+HYP: o k k a m i n a i i i n i n i t e i r u y o o n i o k o cl k a ts u k a i w a t o m o m a ch i n o y o o n i m i e r u
+
+ID: BASIC5000_0148
+#ERROR (#SUB #DEL #INS): 27 (17 8 2)
+REF: b a N g o o o k i r e i s a cl p a r i w a s u r e t e sh i m a cl t a <eos>
+HYP: o o d o r u g a r a i sh i t a m o ch i w w a s e n a n a i
+
+ID: BASIC5000_0149
+#ERROR (#SUB #DEL #INS): 30 (27 2 1)
+REF: g o m a i r u w a p i k u n i cl k u n i t e k i sh i t a ky o r i d a <eos>
+HYP: m a N o o o k k i r e s s a cl t a r i m a s e r e t e sh i m a cl t a
+
+ID: BASIC5000_0150
+#ERROR (#SUB #DEL #INS): 30 (21 0 9)
+REF: g o d o r u g u r a i sh i k a m o ch i a w a s e g a n a i <eos>
+HYP: k e N b i ky o o t o b o o i N ky o o n o ch i g a i g a a a k a r i m a s u k a
+
+ID: BASIC5000_0151
+#ERROR (#SUB #DEL #INS): 13 (8 3 2)
+REF: m i n a m i a f u r i k a s e e f u w a m o h a y a k o k u j i N n i by o o d o o n o k o o m i N k e N o m o t o m e r u u N d o o o y o k u s e e d e k i n a i <eos>
+HYP: m i n a m i a s u r i k a s e e f u w a m a h a y a k u j u j i N d i o o o d o o n o k o o m i N g e N o m o t e r u u u N N d o o o o o k u s e e d e k i n a i
+
+ID: BASIC5000_0152
+#ERROR (#SUB #DEL #INS): 35 (21 13 1)
+REF: a k u w a o k o n a u n i y a s a sh i k u t e s o n o k e e t a i m o m u g e N d e a r u <eos>
+HYP: sh i k a m o i k i n o b i i o o o y u k u sh i t a i n o d e s u d a
+
+ID: BASIC5000_0153
+#ERROR (#SUB #DEL #INS): 42 (37 4 1)
+REF: s a N b a N m e n i k o o ry o s u b e k i j i k o o w a k a a p e cl t o n o j i d a i s e e d e a r u <eos>
+HYP: m a z u sh i i k a r a t o y u u d a k e d e h i t o o k e e b e ts u s u r u b e k i d e w a n a i
+
+ID: BASIC5000_0154
+#ERROR (#SUB #DEL #INS): 39 (26 12 1)
+REF: m a z u sh i i k a r a t o y u u d a k e d e h i t o o k e i b e ts u s u r u b e k i d e w a n a i <eos>
+HYP: s a i k a i h a ts u n i y a cl t e ch i i k i n i b e N i k i g a sh o o ts u r u
+
+ID: BASIC5000_0155
+#ERROR (#SUB #DEL #INS): 37 (33 2 2)
+REF: ry o o sh i w a ts u r i a g e t a s a k a n a n o o o k i s a o o o g e s a n i i cl t a <eos>
+HYP: t o ts ts u k u r u r a n a i n i e e g a n a h a j i m a ch t e sh i m a N d d e sh o o n e
+
+ID: BASIC5000_0156
+#ERROR (#SUB #DEL #INS): 35 (27 7 1)
+REF: ry o k a k u w a h o d o o ky o o o ts u k a cl t e r o s e N o w a t a cl t e k u d a s a i <eos>
+HYP: m a r u u u k a k e o s u r u t o o m n a n o k o r i k i r a w a r e r u y o
+
+ID: BASIC5000_0157
+#ERROR (#SUB #DEL #INS): 42 (32 2 8)
+REF: t o o ch a k u s u r u m a e n i e e g a g a h a j i m a cl t e sh i m a u N d e sh o o n e <eos>
+HYP: s a N b a N m i n i k o o r o s u b e k i j i k o o w a k a cl cl e cl t o n o j i d a i s e e d e a r u
+
+ID: BASIC5000_0158
+#ERROR (#SUB #DEL #INS): 32 (25 2 5)
+REF: s a i k a i h a ts u n i y o cl t e ch i i k i n i b e N e k i g a sh o o z u r u <eos>
+HYP: r o o sh i w a ts u y i a n e t a s a k a n a n o o o k i a a o o o g e s a n i i cl t a
+
+ID: BASIC5000_0159
+#ERROR (#SUB #DEL #INS): 34 (25 0 9)
+REF: sh i k a g o i k i n o b i N o y o y a k u sh i t a i n o d e s u g a <eos>
+HYP: y o k a k u w a h o d o o ky o o ts ts u k a cl t e i i s e e w w a t a cl t e k u d a s a i
+
+ID: BASIC5000_0160
+#ERROR (#SUB #DEL #INS): 37 (32 0 5)
+REF: w a r u f u z a k e o s u r u t o o N n a n o k o n i k i r a w a r e r u y o <eos>
+HYP: a k u w a o k o n a o n i y a s a sh i k u t e s o n o k e e t a i m o m u n e N d e a r u
+
+ID: BASIC5000_0161
+#ERROR (#SUB #DEL #INS): 50 (28 22 0)
+REF: b a i k i N g u n o h o o g a k o r o N b u s u y o r i s a k i n i a m e r i k a o h a cl k e N sh i t a t o i w a r e t e i r u <eos>
+HYP: j u u h s o o j i sh i t e t t a r a t o ts u N e N o o o ts a ts u sh i t e m i t a cl t a
+
+ID: BASIC5000_0162
+#ERROR (#SUB #DEL #INS): 48 (38 7 3)
+REF: a n a t a m a k a s e n i sh i n a i d e j i b u N d e s e k i n i N o m o cl t e y a cl t e k u d a s a i <eos>
+HYP: m i sh sh i u i i i d o w a k o k u m i w w a ch o k u s e ts u s e e n u n o y a k u n i i o y o r u
+
+ID: BASIC5000_0163
+#ERROR (#SUB #DEL #INS): 40 (30 9 1)
+REF: o N d o k u w a k a r e n i t o cl t e t a i h e N h o n e n o o r e r u sh i g o t o d e a cl t a <eos>
+HYP: w a r i i d o o r o o k a k u N b a k u N t o sh a sh i cl t e i u u j i d o o sh i t
+
+ID: BASIC5000_0164
+#ERROR (#SUB #DEL #INS): 45 (34 10 1)
+REF: b a k u s u g e N sh a n o k e N ky u u j o d e sh i N y a k u n o sh i k e N g a o k o n a w a r e t a <eos>
+HYP: n o o m i t t a ch i w a y o i r i N o o t o f u r o o h i i o s e N s e ts u s u r u
+
+ID: BASIC5000_0165
+#ERROR (#SUB #DEL #INS): 35 (29 1 5)
+REF: j u u o s o o j i sh i t e i t a r a t o ts u z e N b o o h a ts u sh i t e sh i m a cl t a <eos>
+HYP: o N d o k u w a k a r e n i t o cl t e t a i h e N h o n e n o o r e r u sh i m o t o d e a cl t a
+
+ID: BASIC5000_0166
+#ERROR (#SUB #DEL #INS): 42 (34 8 0)
+REF: m i N sh u sh u g i d e w a k o k u m i N w a ch o k u s e ts u s e e f u n o y a k u n i N o y o b u <eos>
+HYP: w a r a k a cl t e k e r e m o m a a n o t e e d o n a r a m a d a sh a sh i t a cl t a
+
+ID: BASIC5000_0167
+#ERROR (#SUB #DEL #INS): 45 (38 0 7)
+REF: n o o m i N t a ch i w a y o i r i N g o t o f u ry o o h i N o s e N b e ts u s u r u <eos>
+HYP: b a k u s e e e N sh a n e k e N ky u u j o d e sh i i y a k u n o sh i t e N g a o k o n a w a r e t a
+
+ID: BASIC5000_0168
+#ERROR (#SUB #DEL #INS): 41 (26 3 12)
+REF: w a r u k a cl t a k e r e d o m o a n o t e e d o n a r a m a d a m a sh i d a cl t a <eos>
+HYP: a n a t a m a k u s e n i sh i n a i d e ch i b u N d e s e k i n i y o m o cl t e e a cl t e k u d a i a i
+
+ID: BASIC5000_0169
+#ERROR (#SUB #DEL #INS): 48 (25 0 23)
+REF: w a r u i d o o r o o g a k u N g a k u N t o h a sh i cl t e i k u j i d o o sh a <eos>
+HYP: a a i k i N n a n o h o N g a k o r o N b u s u y o r i k a k i n i a m a r i k a h h a cl k e N sh i t a t o y w a r e t e i r u
+
+ID: BASIC5000_0170
+#ERROR (#SUB #DEL #INS): 3 (2 1 0)
+REF: ky u u o y o o s u r u k o t o d a k a r a i s o i d e k u d a s a i <eos>
+HYP: ky u u o o o o s u r u k o t o d a k a r a i s o o d e k u d a s a i
+
+ID: BASIC5000_0171
+#ERROR (#SUB #DEL #INS): 49 (15 34 0)
+REF: g u z u g u z u sh i t e i t a t a m e n i t a k a i h o t e r u n i h i t o b a N t o m a r a z a r u o e n a k u n a cl t a <eos>
+HYP: d a t a i w a i ch i t o d d o i k u r a d e y r a r e r u
+
+ID: BASIC5000_0172
+#ERROR (#SUB #DEL #INS): 6 (5 1 0)
+REF: b a s u n o b i N g a n a k a cl t a n o d e w a t a sh i t a ch i w a e k i m a d e z u cl t o a r u k a n a k e r e b a n a r a n a k a cl t a <eos>
+HYP: b a s u n o b i g g a n a k a cl t a n o d e w a t a sh i t a ch i w a k k i m a d e ts u cl t o r r u k a n a k e r e b a n a r a k a k a cl t a
+
+ID: BASIC5000_0173
+#ERROR (#SUB #DEL #INS): 46 (17 27 2)
+REF: ch i g a i g a i r o i r o a r u n i m o k a k a w a r a z u j o o N t o a N w a t o m o d a ch i d o o sh i d e i r u <eos>
+HYP: f u s s u r i m o cl a t t a w t o ts a ts u cl t o k i r u g g a i o i
+
+ID: BASIC5000_0174
+#ERROR (#SUB #DEL #INS): 39 (26 13 0)
+REF: b a g u d a k a n a N d a k a w a k a N n a i k e d o k o n o s o f u t o w a ch a N t o u g o k a n a i <eos>
+HYP: u u e i n i s u r u k a a a i n a r o o b o r e sh i N d a h o o g a m a sh i d a
+
+ID: BASIC5000_0175
+#ERROR (#SUB #DEL #INS): 33 (25 8 0)
+REF: s o o sh i k i n i w a k u r o i f u k u o k i t e i k u n o g a sh u u k a N d e s u <eos>
+HYP: b a k e ts u n i m i z u o i cl p a i k u N d e m o t t e k i d a s a i
+
+ID: BASIC5000_0176
+#ERROR (#SUB #DEL #INS): 41 (30 0 11)
+REF: u e j i n i s u r u k u r a i n a r a o b o r e sh i N d a h o o g a m a sh i d a <eos>
+HYP: b a b u d a k a n a N d a k a w a k a n n a k d o d o k o n o s o t u t o w a t a N t o o g o k a n a i
+
+ID: BASIC5000_0177
+#ERROR (#SUB #DEL #INS): 43 (17 0 26)
+REF: g u a i g a w a r u k a cl t a k e d o sh i g o t o n i i cl t a <eos>
+HYP: ch i g a i g a i r u y r o o r u g i m o k a w a w a j u j u ch o o ch o o o t t a o o m a t a m i d a n sh i t e i r u
+
+ID: BASIC5000_0178
+#ERROR (#SUB #DEL #INS): 48 (21 0 27)
+REF: g u cl s u r i n e m u cl t a a t o w a z u cl t o k i b u N g a y o i <eos>
+HYP: f u z u g u z u sh i t e i t a m a n e n i t a k a i h i t e r u n i h i t o b a cl t o g a r a r a r o e e n a k u n a cl t a
+
+ID: BASIC5000_0179
+#ERROR (#SUB #DEL #INS): 35 (29 0 6)
+REF: b a k e ts u n i m i z u o i cl p a i k u N d e m o cl t e k i n a s a i <eos>
+HYP: s o o sh i k i n i w a k u r o o f u k u o k i t e i k u n o w a sh u u k a N d e s u
+
+ID: BASIC5000_0180
+#ERROR (#SUB #DEL #INS): 27 (26 0 1)
+REF: b a t a a w a i ch i p o N d o i k u r a d e u r a r e r u <eos>
+HYP: k a a i k a w a r k k a cl t e k e sh o sh i m o t o n i i cl t a
+
+ID: BASIC5000_0181
+#ERROR (#SUB #DEL #INS): 72 (18 54 0)
+REF: m i t a m e n i w a y a s a sh i s o o d a k e d o k a r e cl t e m i N n a k a r a g a i j u u n a i g o o n o k e cl k o o n a t a f u n e g o sh i e e t a a t o i w a r e t e i r u y o <eos>
+HYP: d a i i i N i i sh i s e e w a h i t o ts u n o s e e j i t e t t a i d e a r u
+
+ID: BASIC5000_0182
+#ERROR (#SUB #DEL #INS): 46 (29 16 1)
+REF: m e m o n i w a m i z u n i u k a b u r e N sh u u o s a s e r u y o o n i t o n a g u r i g a k i s a r e t e i t a <eos>
+HYP: y o r o y y ts u t e t e i r u h i t o w a k o r o b o t o o k k i n a o t o g a s u r u
+
+ID: BASIC5000_0183
+#ERROR (#SUB #DEL #INS): 41 (36 2 3)
+REF: m e r i i n o n i k o y a k a n a k a o w a k a n o j o n o sh i a w a s e o a r a w a sh i t e i t a <eos>
+HYP: s a i b a i n i t e k i sh i t a d o j o o e e r u n i w a t a d a y a s a n a k e r e b a n a r a n a i
+
+ID: BASIC5000_0184
+#ERROR (#SUB #DEL #INS): 42 (23 19 0)
+REF: s a i b a i n i t e k i sh i t a d o j o o o e r u n i w a t a g a y a s a n a k e r e b a n a r a n a i <eos>
+HYP: f u u u u N g a N o j i k a N o s a i t e i d a d a k e m a s u k a
+
+ID: BASIC5000_0185
+#ERROR (#SUB #DEL #INS): 6 (5 1 0)
+REF: g e N k i N b a r a i n i w a j u cl p a a s e N t o w a r i b i k i i t a sh i m a s u <eos>
+HYP: k e N k i N b a r a i n i w a ch u cl t a s s e N t o w a r i b i k i t t a sh i m a s u
+
+ID: BASIC5000_0186
+#ERROR (#SUB #DEL #INS): 37 (15 22 0)
+REF: m i sh i r a n u h i t o g a ch i k a y o cl t e k i t e w a t a sh i n i j i k o k u o t a z u n e t a <eos>
+HYP: m e r u s u w a k i k sh i t e i s o ts u k i d e w a n a i
+
+ID: BASIC5000_0187
+#ERROR (#SUB #DEL #INS): 41 (30 3 8)
+REF: y o r o i o ts u k e t e i r u h i t o w a k o r o b u t o o o k i n a o t o g a s u r u <eos>
+HYP: m i sh i r a d i h i t o g a ch i k a i o cl t e k i t e w a t a sh i n i ch i k o k o t t a ts e d e t a
+
+ID: BASIC5000_0188
+#ERROR (#SUB #DEL #INS): 40 (28 1 11)
+REF: d a i g i m i N sh u s e e w a h i t o ts u n o s e e j i k e e t a i d e a r u <eos>
+HYP: m e r i n n a n i k o k a k a d a k a w w a k a n o j o n o sh i y w a s e o w r a w a sh i t e i t a
+
+ID: BASIC5000_0189
+#ERROR (#SUB #DEL #INS): 75 (20 0 55)
+REF: s u u f u N k a N o j i k a N o s a i t e i t a d a k e m a s u k a <eos>
+HYP: m i t a g e n i a a y a s a sh i o o d d e k o d o k a r e r t e m i n n a k a r a g a j j u u n a i o o o n o o o cl t o o n a t a k u n e n o sh i e a t a a t o r w a r e t e i r u
+
+ID: BASIC5000_0190
+#ERROR (#SUB #DEL #INS): 43 (15 0 28)
+REF: m e r o s u w a k e cl sh i t e u s o ts u k i d e w a n a i <eos>
+HYP: m e m o n i w a m u z u g i y k a b u r e N sh u u o s a k e r i y o o n i t o k a cl a n a n a r u n a k e t e i t a
+
+ID: BASIC5000_0191
+#ERROR (#SUB #DEL #INS): 41 (18 23 0)
+REF: ch i j i N g a f u e r e b a f u e r u h o d o s o r e d a k e a u j i k a N g a s u k u n a k u n a r u <eos>
+HYP: m e e r u d e a n a t a t o o sh a b e r i g a sh i t a i w a
+
+ID: BASIC5000_0192
+#ERROR (#SUB #DEL #INS): 41 (21 1 19)
+REF: a r u k o o t o s u r u t o k o k o g a z u k i N t o sh i m a s u <eos>
+HYP: j i j i N g a f u e e e b a f u r r u k o d o s o r o n o d a r ky h a o a j k a k a g u n a k u n a r u
+
+ID: BASIC5000_0193
+#ERROR (#SUB #DEL #INS): 30 (27 1 2)
+REF: sh o r u i w a k a cl t e n i i j i r a r e t a k e e s e k i g a a cl t a <eos>
+HYP: g o k a z o k u m o i sh sh o n i ts u r e t e k o r e r e t a d o d e s u k a
+
+ID: BASIC5000_0194
+#ERROR (#SUB #DEL #INS): 32 (24 6 2)
+REF: m e N b a a n o d a r e k a g a k i m i n i s a N s e e sh i t e i m a s u k a <eos>
+HYP: sh o r i i w a k a cl t e n i i j i r a r e t a k e e s e k i g a a cl t a
+
+ID: BASIC5000_0195
+#ERROR (#SUB #DEL #INS): 34 (29 1 4)
+REF: ch i j i w a a t a r a sh i i h a sh i n o t e e p u k a cl t o o sh i t a <eos>
+HYP: m e N b a N n o d a e e k a g a k i m i n i s a N s e e sh i t e i m a s u k a
+
+ID: BASIC5000_0196
+#ERROR (#SUB #DEL #INS): 27 (21 6 0)
+REF: m e d i a g a z o o o n o k o N s e k i o y a s u u r i s u r u <eos>
+HYP: m i o r o s u t o t a cl u s a N b i r u g a m e e t a
+
+ID: BASIC5000_0197
+#ERROR (#SUB #DEL #INS): 31 (25 6 0)
+REF: g o k a z o k u m o i cl sh o n i ts u r e t e k o r a r e t a n o d e s u k a <eos>
+HYP: a r u k o o t o s u r u t o k o k o w a ts u k i N t o sh i m a s u
+
+ID: BASIC5000_0198
+#ERROR (#SUB #DEL #INS): 28 (22 1 5)
+REF: m e e r u d e a n a t a t o o sh a b e r i g a sh i t a i w a <eos>
+HYP: ch i j i w a a t a r a sh i i h a sh i n o t e e r u k a cl t o o sh i t a
+
+ID: BASIC5000_0199
+#ERROR (#SUB #DEL #INS): 23 (13 6 4)
+REF: m i o r o s u t o t a k u s a N b i r u g a m i e t a <eos>
+HYP: m e n i u m m i s e t e i t a d a k e m a s e N k a
+
+ID: BASIC5000_0200
+#ERROR (#SUB #DEL #INS): 26 (15 3 8)
+REF: m e ny u u o m i s e t e i t a d a k e m a s e N k a <eos>
+HYP: m e d e y g a z u o o n o k o k s e e i o o a i u y u i s u r u
+
+ID: BASIC5000_0201
+#ERROR (#SUB #DEL #INS): 70 (20 50 0)
+REF: z a N b i a w a a f u r i k a n o k u n i d a k a r a a n a t a g a t a w a k i k o o g a t o t e m o a ts u i n o d e w a n a i k a t o o m o u k a m o sh i r e m a s e N n e <eos>
+HYP: k i k a k u o m o t a n a i sh i N d e e w a sh i N d a sh i g g e N d e a r u
+
+ID: BASIC5000_0202
+#ERROR (#SUB #DEL #INS): 46 (36 7 3)
+REF: h a d a n o i r o n o i k a N o t o w a z u k a r e w a b a N n i N n o g e N r o N n o j i y u u o y o o g o sh i t a <eos>
+HYP: m e s s e e j i n a n a z e k a m o j i b a k e sh i t e i t a n o d e sh u u u u k u sh i t e i o m i m a sh i t a
+
+ID: BASIC5000_0203
+#ERROR (#SUB #DEL #INS): 43 (29 14 0)
+REF: t o sh i u e n o o t o k o n o k o t a ch i g a k a r e n i i ts u m o i t a z u r a b a k a r i sh i t e i r u <eos>
+HYP: k i N ky u u n o a a a i w a h a k u j u u k u u b a N n i d e w w a sh i n a s a i
+
+ID: BASIC5000_0204
+#ERROR (#SUB #DEL #INS): 48 (43 4 1)
+REF: m e cl s e e j i g a n a z e k a m o j i b a k e sh i t e i t a n o d e sh u u f u k u sh i t e y o m i m a sh i t a <eos>
+HYP: t o sh u r r n o o t o k o n o k o t a ch i g a k a r e n i i ts u m o t t e ts u r a b a k a r e sh i t e i r u
+
+ID: BASIC5000_0205
+#ERROR (#SUB #DEL #INS): 35 (31 0 4)
+REF: a r u k i m a sh o o k a s o r e t o m o b a s u d e i k i m a s u k a <eos>
+HYP: m i t e s o n o s a k a i z i z e e w a y o o j i n n i o k k a k e r e r e r u
+
+ID: BASIC5000_0206
+#ERROR (#SUB #DEL #INS): 33 (17 13 3)
+REF: m i t e s o n o w a k a i j o s e e w a r o o j i N n i o i k a k e r a r e r u <eos>
+HYP: a r u i t e i k u n o s o r o w o r e t e cl o cl a s s u d i n
+
+ID: BASIC5000_0207
+#ERROR (#SUB #DEL #INS): 35 (28 7 0)
+REF: k i N ky u u n o b a a i w a hy a k u j u u ky u u b a N n i d e N w a sh i n a s a i <eos>
+HYP: r r i k i g a sh o o k a s u r a w a s a r e r e m o a s u t e s e k a
+
+ID: BASIC5000_0208
+#ERROR (#SUB #DEL #INS): 45 (21 2 22)
+REF: g i w a k u o m o t a n a i sh i N n e N w a sh i N d a sh i N n e N d e a r u <eos>
+HYP: h a d a n o y r o n o n k a N o t o w a ts u k a r e w a r a cl d i a n i n a N d e r n o j i j u u y y o o n o sh i t a
+
+ID: BASIC5000_0209
+#ERROR (#SUB #DEL #INS): 69 (13 0 56)
+REF: a r u i t e i k u n o s o r e t o m o b a s u d e i k u n o <eos>
+HYP: j a N m i a w a a r u r i k a n o k u n i d a k a r a a t a t a t a n a k a k i k o o g a t o t e m a a ts u i n o d e w a n a i k a t o k m o o k a g o sh i r e m a s e N d e
+
+ID: BASIC5000_0210
+#ERROR (#SUB #DEL #INS): 19 (18 1 0)
+REF: z a a cl t o t a k i n o y o o n i a m e g a f u cl t e k i t a <eos>
+HYP: j a a cl t a k a k i t a k a n n i o n i n a r i g t a k u t e
+
+ID: BASIC5000_0211
+#ERROR (#SUB #DEL #INS): 52 (23 25 4)
+REF: j u u k i m e e k a a w a sh o o k a k i n i y o r u b o o ry o k u j i k e N n i t a i s u r u s e k i n i N o n o g a r e t e k i t a <eos>
+HYP: f a w e s u r e t o t d i g i N k u N n sh i t a k o k u o s u s e t e sh o o k a i sh i m a s u
+
+ID: BASIC5000_0212
+#ERROR (#SUB #DEL #INS): 42 (14 28 0)
+REF: s e e r e N k e cl p a k u d e k i k o e t a k a r e g a o sh o k u n a N k a n i t e o s o m e r u w a k e n a i <eos>
+HYP: k o k a n e i i o k o b s a N g a i r u n o n a m e e r u
+
+ID: BASIC5000_0213
+#ERROR (#SUB #DEL #INS): 44 (21 23 0)
+REF: g e N d a i n o sh a k a i m o N d a i w a m a s u m a s u f u k u z a ts u k a s u r u k e e k o o g a a r u <eos>
+HYP: t e k i s u t o d e e t a n o j o j i d a ts u j i o sh u u s e e
+
+ID: BASIC5000_0214
+#ERROR (#SUB #DEL #INS): 57 (43 2 12)
+REF: h a d a g a h i r i ts u k u d o k o r o k a ts u k a u m a e y o r i h a d a g a a N t e e sh i t e r u N d e s u <eos>
+HYP: ch u u k i m e e k a w w a sh o o k a k i n i y o r u cl o o ry o k u j i k e N n i t a i s u r e k e n i n o o o n o a a r e t e k i t a
+
+ID: BASIC5000_0215
+#ERROR (#SUB #DEL #INS): 46 (38 0 8)
+REF: z a b e s u t o t e N n i r a N k u i N sh i t a ky o k u o s u b e t e sh o o k a i sh i m a s u <eos>
+HYP: s e e r e N k a cl t a k i k e k i o a t t a g a g a w o sh sh o k u n a N k a n i t o o s o m e r u w a k e n a i
+
+ID: BASIC5000_0216
+#ERROR (#SUB #DEL #INS): 40 (24 6 10)
+REF: m a i a s a k a n a r a z u t e N k i y o h o o o m i t e k a r a g a i sh u ts u sh i m a s u <eos>
+HYP: h a d a g a h i r i ts u k u d o k o k a k a ts u a a N g i y r o h i n a t a k a N t t e sh t i t e N u
+
+ID: BASIC5000_0217
+#ERROR (#SUB #DEL #INS): 44 (30 0 14)
+REF: n a N sh u u k a N m o y o i t e N k i d a cl t a a t o d e a m e g a f u cl t a <eos>
+HYP: g e N d a i n a sh a k a i m o N d a i w a m a s u m a s u r u k u z a k u k u r u k e k e o o o a a a r r u
+
+ID: BASIC5000_0218
+#ERROR (#SUB #DEL #INS): 4 (3 1 0)
+REF: r o k u g a ts u n a n o k a w a n a N j i g a sh u u g o o g a i i d e s u k a <eos>
+HYP: b o k u g a ts u n a n o k a w a n a N j i k a sh i u g o o g a i i d e s u k a
+
+ID: BASIC5000_0219
+#ERROR (#SUB #DEL #INS): 34 (28 0 6)
+REF: t e k i s u t o d e e t a n o g o j i d a ts u j i o sh u u s e e <eos>
+HYP: n a N sh u u k a N m o y o i t e N k i d a cl t a t t o d e n r a n a n u cl t a
+
+ID: BASIC5000_0220
+#ERROR (#SUB #DEL #INS): 37 (17 2 18)
+REF: k o k a g e n i o b a a s a N g a i r u n o g a m i e r u <eos>
+HYP: m a i y s a k a n a r a z u cl e N k i o o o o o m m i t a k a r a d a i sh i ts u sh i m a s u
+
+ID: BASIC5000_0221
+#ERROR (#SUB #DEL #INS): 9 (4 3 2)
+REF: s u g i m o t o f u j i N w a i ts u m o k o g i r e i n a k i m o n o o k i t e i r u <eos>
+HYP: s u g i n o t o f u j i N w a i ts u i i n o k e k i e n a k i m o n o o k i t e i r u
+
+ID: BASIC5000_0222
+#ERROR (#SUB #DEL #INS): 37 (29 5 3)
+REF: ch i ky u u n o hy o o m e N n o y a k u s a N b u N n o i ch i g a r i k u ch i d e a r u <eos>
+HYP: k u g a ts u n i f u k u g a k u s u r u k o t o o k a r e w a s u ts u b o o sh i t a
+
+ID: BASIC5000_0223
+#ERROR (#SUB #DEL #INS): 33 (24 9 0)
+REF: h i r o s e h a k a s e w a e i z u n o k e N ky u u n i t a z u s a w a cl t e i r u <eos>
+HYP: j a r i y s e N e N t o d e k a t a m e r i h i y u y o o a a r r u
+
+ID: BASIC5000_0224
+#ERROR (#SUB #DEL #INS): 36 (25 7 4)
+REF: m e N z e N d e h i t o o h o m e r u y o o n a h i t o o sh i N y o o s u r u n a <eos>
+HYP: f u k u r o o w a t o t e m o k a sh i k o o t o k a N g a e r a r e t e i r u
+
+ID: BASIC5000_0225
+#ERROR (#SUB #DEL #INS): 31 (26 2 3)
+REF: k o k u n a i sh i j o o n o ky o o s o o w a s u s a m a j i i m o n o d e s u <eos>
+HYP: m e N z e N n e h i t o o h o m e r i y o o n a h i t o o sh i i y o o s u r u d a
+
+ID: BASIC5000_0226
+#ERROR (#SUB #DEL #INS): 37 (31 3 3)
+REF: k u g a ts u n i f u k u g a k u s u r u k o t o o k a r e w a s e ts u b o o sh i t a <eos>
+HYP: ch i k u u n o o o o m e N n o y a k u s a N b u N n o i ch i g a r i k u ch i d e a r u
+
+ID: BASIC5000_0227
+#ERROR (#SUB #DEL #INS): 34 (27 3 4)
+REF: g o s e N e N a r e b a k o n o j i sh o o k a u n o n i j u u b u N d a <eos>
+HYP: h i g a sh i w a ts ts u k e t e k a r e r a w a ts u k a r e t e i m a sh i t a
+
+ID: BASIC5000_0228
+#ERROR (#SUB #DEL #INS): 34 (30 4 0)
+REF: f u k u r o o w a t o t e m o k a sh i k o i t o k a N g a e r a r e t e i r u <eos>
+HYP: g o s e e e i g r e b a k o n o j i sh o o k a o n o n i j u u b u N d a
+
+ID: BASIC5000_0229
+#ERROR (#SUB #DEL #INS): 34 (32 1 1)
+REF: h i z a sh i w a a ts u k u t e k a r e r a w a ts u k a r e t e i m a sh i t a <eos>
+HYP: k o k u n a i sh i o o o n o ky o o s o o w a s u s a m a j i i m o n o d e s u
+
+ID: BASIC5000_0230
+#ERROR (#SUB #DEL #INS): 32 (19 3 10)
+REF: j a r i o s e m e N t o d e k a t a m e r u h i ts u y o o g a a r u <eos>
+HYP: h i r o s e h a k a s e w a i z z u d o k e N ky u u i i t a z u s a w a cl t e i r u
+
+ID: BASIC5000_0231
+#ERROR (#SUB #DEL #INS): 73 (20 53 0)
+REF: f u h e N f u t o o n o s e e sh i N d e n a d o t o k a cl k o ts u k e t e i r u k e d o k e cl ky o k u n o t o k o r o j i b u N n o i k e N o m o cl t e i n a i d a k e j a n a i n o <eos>
+HYP: y o s e e w a j i b u N n o r i s o o n o ts u i k u u n i ts u i y a sh i t a i
+
+ID: BASIC5000_0232
+#ERROR (#SUB #DEL #INS): 53 (14 37 2)
+REF: s e e o o sh o k o k u w a k o n o m o N d a i n i t a i s u r u n i cl p o N n o sh i s e e o h a g e sh i k u h i n a N sh i t e i m a s u <eos>
+HYP: k u r u m a s s u n o j o s e e s u s t a N cl i t a i e t o r o r u
+
+ID: BASIC5000_0233
+#ERROR (#SUB #DEL #INS): 43 (30 9 4)
+REF: i ch i g a ts u s a N j u u n i ch i s a N j u u i ch i n i ch i w a s o o sh i k i n o t a m e y a s u m i m a s u <eos>
+HYP: h a z a ts a ch u u sh o k u n i w a t a sh i t a ch i i i z i z z u s a N d o o ts u k u cl t e k u r e t a
+
+ID: BASIC5000_0234
+#ERROR (#SUB #DEL #INS): 50 (43 5 2)
+REF: h a h a w a w a t a sh i n o n o z o m u m o n o w a n a N d e m o i w a n a k u t e m o k a n a e t e k u r e r u <eos>
+HYP: i ch i g a ts u s a N j u n n i i i s a N j i u j j i j i ch i w a s o o sh i k i n o t a m e a a s u m i m a s u
+
+ID: BASIC5000_0235
+#ERROR (#SUB #DEL #INS): 41 (34 1 6)
+REF: h a h a g a ch u u sh o k u n i w a t a sh i t a ch i n i ch i i z u s a N d o o ts u k u cl t e k u r e t a <eos>
+HYP: h a h a w a t a t a sh i n o n o n o m o n o n o w a n a N d e m o w w a d a k u t e m o k a n a i t e k u r e r u
+
+ID: BASIC5000_0236
+#ERROR (#SUB #DEL #INS): 33 (22 11 0)
+REF: n u k a r u N d a m i ch i d e a sh i o t o r a r e t e k o r o b i s o o n i n a cl t a <eos>
+HYP: h a n i n o k o n o s e e t a a ts ts u k u r o t t e m a cl a cl t a
+
+ID: BASIC5000_0237
+#ERROR (#SUB #DEL #INS): 29 (22 7 0)
+REF: y o s e e w a j i b u N n o r i s o o n o ts u i ky u u n i ts u i y a sh i t a i <eos>
+HYP: o t a r a r i t a n o sh i m i n i o m a ch i sh i t e o r i m a s u
+
+ID: BASIC5000_0238
+#ERROR (#SUB #DEL #INS): 52 (15 2 35)
+REF: k u r u m a i s u n o j o s e e s u u p a a n i t a t e k o m o r u <eos>
+HYP: s e e o o sh o k o k u w a k o n o m o N d a i n i t a i s u r u n i cl p o n sh o sh i e e e o h a n e sh i k u h i n a i sh i t e i m a s u
+
+ID: BASIC5000_0239
+#ERROR (#SUB #DEL #INS): 31 (20 1 10)
+REF: h a h a n i k o n o s e e t a a o ts u k u r o cl t e m o r a cl t a <eos>
+HYP: b o k a r u N d a m i ch i d e a sh i o t o r a r e t e k o r o b i s o o n i n a cl t a
+
+ID: BASIC5000_0240
+#ERROR (#SUB #DEL #INS): 73 (18 0 55)
+REF: o t a y o r i t a n o sh i m i n i o m a ch i sh i t e o r i m a s u <eos>
+HYP: f u e e N f u t o o n o s e e sh i d d e n a i a n a n o k k o k u k e t e i r u k e d o k e cl t o k u n o t o k o r o ch i b u N n o i k e e o m o cl t e n n a d d e k u n a n a i
+
+ID: BASIC5000_0241
+#ERROR (#SUB #DEL #INS): 41 (22 18 1)
+REF: m a cl t e e w a w a r u k u n a i k a m o sh i r e n a i k e r e d o w a t a sh i m o w a r u k u n a i <eos>
+HYP: r i g a w a k a s e e b u d e m m o m i y o o s a i y y a cl t e i r u
+
+ID: BASIC5000_0242
+#ERROR (#SUB #DEL #INS): 39 (23 0 16)
+REF: u e k i b a ch i g a h o d o o n i o ch i t e g a ch a N t o w a r e t a <eos>
+HYP: ts u m i n i b a r a a a s s a t o d e n a k a k u d e w u t e N a k u k k u r i n i n a r a a a a a a a
+
+ID: BASIC5000_0243
+#ERROR (#SUB #DEL #INS): 37 (29 8 0)
+REF: ts u m i n i n o b a r a N s u g a t o r e n a k u t e f u n e w a t e N p u k u sh i t a <eos>
+HYP: r e N sh o o d a i k i k k i r i m i m i s u r e t t e h a r a g a N k a i
+
+ID: BASIC5000_0244
+#ERROR (#SUB #DEL #INS): 32 (20 10 2)
+REF: b e N sh o o d a i k i cl ch i r i m i m i s o r o e t e h a r a w a N k a i <eos>
+HYP: k u r e r u n o d e w a r a k u t a i i o o a s o o d e s u
+
+ID: BASIC5000_0245
+#ERROR (#SUB #DEL #INS): 29 (20 5 4)
+REF: r i n a w a k a s e e b u d e o m o n i y o o s a i o y a cl t e i r u <eos>
+HYP: k u r i h i g o k u r i h i m o g n a j i y o o n i s u n i s a cl t a
+
+ID: BASIC5000_0246
+#ERROR (#SUB #DEL #INS): 27 (22 5 0)
+REF: h a sh i g a k o w a r e t e i t a n o d e o y o g u sh i k a n a k a cl t a <eos>
+HYP: k i z u k a r a n a r a r e r u j o o n a N t o k a sh i n a s a i
+
+ID: BASIC5000_0247
+#ERROR (#SUB #DEL #INS): 41 (26 0 15)
+REF: k u r u h i m o k u r u h i m o o n a j i y o o n i s u g i s a cl t a <eos>
+HYP: m a cl t e y w a r a k u k a n a k m u r e n i n a k a k k e r e d o w a t a sh i m o w a r u k a n a i
+
+ID: BASIC5000_0248
+#ERROR (#SUB #DEL #INS): 11 (10 1 0)
+REF: w a t a sh i s e N y o o n o h e y a g a a r e b a i i n o d e s u g a <eos>
+HYP: w a t a sh i i e i o o o n i h e e a a a r r e i i i n n o d e s u g a
+
+ID: BASIC5000_0249
+#ERROR (#SUB #DEL #INS): 31 (19 3 9)
+REF: k u r e r u n o d e w a n a k u t a i y o d a s o o d e s u <eos>
+HYP: h a sh i a a k o w a r e t e i t a n o d e o y o o u sh i k a n a k a cl t a
+
+ID: BASIC5000_0250
+#ERROR (#SUB #DEL #INS): 28 (21 3 4)
+REF: k i z u k a r a n a g a r e r u ch i o n a N t o k a sh i n a s a i <eos>
+HYP: r r k i g a ch i g a h o d o o n i o ch i t e k a ch a N t o w a r e t a
+
+-----------------------------------------------------------------------------
+#TOKEN: 11764, #ERROR: 9810 (#SUB: 5921, #DEL: 2080, #INS: 1809)
+TER: 83.39% (SUB: 50.33, DEL: 17.68, INS: 15.38)
+-----------------------------------------------------------------------------

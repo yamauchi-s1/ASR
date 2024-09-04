@@ -1,0 +1,250 @@
+BASIC5000_0001 m i z o o m a r e e sh a a k a r a k a w a n a k u t o w a n a r a n a i d o d e s u
+BASIC5000_0002 m o k u y o o b i cl e k k e N k a i i a i w a m a m n a a i N sh o N sh e m o m m a sh o sh i u y o o sh i m a sh i t a
+BASIC5000_0003 j o o i N g i N N w a w a t a sh i g a d e e t a o i u g a m e t a t o k o k a h a sh u sh i t a
+BASIC5000_0004 i sh sh u u k a N sh i t e s o n o m u u s o o a s o N t o o n i n a cl t a
+BASIC5000_0005 k e ts u a ts u w a k e N k o o o o t a r a m e e t a a t o sh i t e j u u y o o d e a r u
+BASIC5000_0006 sh u u n i y o o k a i k u r a s s u n o j i y o o g a a r i m a s u
+BASIC5000_0007 ky o k a sh o g a n a k e r e b a k o k o o w a h a e r e n a i
+BASIC5000_0008 o o g e o d e n a k i n a g a r a o h g o N a k o k a h a h a o y a y s a r a sh i t e i t a
+BASIC5000_0009 m u z a i n o k i t e b i t o w a m o ch i r a N h o o m e e s a r e t a
+BASIC5000_0010 m a cl k i sh i k e n n i s u g a i t e h o N o o N n i k i y i y y r e t e b e N ch o o sh i n a k a
+BASIC5000_0011 h i s o g a w a h a sh i b a sh i b a n i h o N r o r a i g g a w a d o r u r a r e t e i r u
+BASIC5000_0012 o b o r e k a cl a cl t e i t o ch o o k a k u w a s u b e t e ch u u h o s a r e t a
+BASIC5000_0013 j u u sh i N b u n i a r u n o d e sh o o t e i n a o k u s u n i n k u n a n a m e N n i d e s u
+BASIC5000_0014 z a N k o k u t o y u k k o t o w a k a r e n o s e e sh i ts u n i w a n a k k o t o d a
+BASIC5000_0015 t e e e r r o m a a a i i i i u u r i i i t o t a k a i h e e a a t a cl t e i r u
+BASIC5000_0016 sh u cl s e e r i ts u t o sh i b o r r i ts u w a h o o o k i t o sh i k a cl t a
+BASIC5000_0017 ky e cl t a i n i s o n o s u i ch ch i n i s a a a cl t e w a i k e n a i
+BASIC5000_0018 h i y a o d e r u t o k i n i w a k k a r i o k i sh i n a s a i
+BASIC5000_0019 sh i e k u s u t i y n o s a k i h i N w a t o t o m o m o z u k a sh i k u t e i o o e n a i
+BASIC5000_0020 m u k a sh i i i cl u cl i cl i i o h i h o h i sh r i n r o o u i g a m s a
+BASIC5000_0021 h i r o o y a r a u e y a r a d e k a r e w a m e g a i o k a N j i t a
+BASIC5000_0022 m u sh i r o r o N g e n o h o o g a h a n e y a s u i cl t e k i t t a d a o
+BASIC5000_0023 m o k o o n i t a cl t e i r o o n n a n o k o w a m e e r a d r e s u
+BASIC5000_0024 sh i s u t e g a r e a a a d d o o w a s e i y o i y a k u n a z a z u z g a n n i n d i a a k i k a N j u u d e N n a i n i k o N ry u u s a r e t a s o o d a i n a r e e h a i d o d d e s u
+BASIC5000_0025 t e n i s u g i m a a r e k e d o i o o d a i t a i k a i cl t e n a n i
+BASIC5000_0026 s a k u r a k u w a i k u k u o h i ts u y o t t o s u r u sh a sh i N j u ts u w a h a d a k a d a r r u k o t o o k o n o m u
+BASIC5000_0027 k o i k o o h i i y o r i b f u i k o o i i i g o h a g g a s u k i d e s u
+BASIC5000_0028 k a i k o o k a n n i w a s a m a n a m a n o t o k k e N a a t t e r r u t e t e i r u
+BASIC5000_0029 s a sh i k i ts u w a t o t e m o f u k a k u k a N z e N n o o s a r e n a n a k k a N e N s u r u r i y i o u a a r r a r r u
+BASIC5000_0030 a a i j i N g a n i h o o sh o k u n i n a r e r u k o t o w a m u z a k a sh i i
+BASIC5000_0031 o o n o f u r i i i n i n a k e N z a i n o k i h o N t e k i n a i m i d e a r u t o w a k a n i r a n a i
+BASIC5000_0032 h a r i g a r i w a d e N ky i o ts u t a e r u u i g i m i i i r r a r u r u
+BASIC5000_0033 n a i n e ts u n o k a b u k i n a n o d a sh i n o n o a a n a N d e s u k a
+BASIC5000_0034 a sh sh i k u sh i t a s a r r u o t e N b u d e o k u t t e k u d a s a i
+BASIC5000_0035 y o o sh i t a i d e e ts u n o o m e e s e k i n u d o N sh i N k e e k a ts u n a j n k n a r a i i e a k i n e m u n d e ts i y a n e n e k k u i k o k u k u k a i j i o sh sh i t a a a m i m a s u r e
+BASIC5000_0036 n u u i N N a N j a w a i sh i n i m a s u y y ch u u sh a s e r e t e s u u i n i n e r u n i o o o t i t a
+BASIC5000_0037 h a t a r e h a ch i m o k u t o y u k k o t o g a a a r r i y o n n i j ch i j o o o o k a i k a r a h a r e r e t e n o o a N s a k k a N m t i t e i d a k e k i d a
+BASIC5000_0038 y o o n i n a g a r u s a w a k a r e n o r o o sh i k i o t t a g a s a s e r u n o n o d a
+BASIC5000_0039 b u ch o o n o ts u g o o w a w a k u k a t e sh t e sh i m a t t a n o d e n o m i k a i n o n i cl t e w w a sh i k i r i n a o sh i d a r e
+BASIC5000_0040 h e r i o n i t a t o k i k a r e w a h i m e e o w w e t a
+BASIC5000_0041 sh i g a i s e N w a h i h u u a k o o o o i o k o s u k o t o g a a r u
+BASIC5000_0042 k i g a ts u k u t o n i m i r a w a d o k o n i m o n a k a cl t a
+BASIC5000_0043 s a N b a N n e n o s o sh i t e m o cl t o m o j u u y o o n a k a g g a a w a s a i s a i n o y u u k o d o d e a r u
+BASIC5000_0044 k i b o o i a i o m e n o o m o i w a ts e cl t a i n i m i ts u k a n a n a i
+BASIC5000_0045 z e N t o o n i a r u a n o s a i g g a y o m e m a s u k a
+BASIC5000_0046 k i g a z u i ch i m g o k u n a a t o t o t o t a r u r o j i n o d e t t o cl t e e r r o n a k k i i i t a cl t e i cl t a
+BASIC5000_0047 k o o z a N d o o d o o sh a b a ch i g n n e n i o o j u u sh i t e s u t o m i t o ts u m i i sh i t a
+BASIC5000_0048 k i n o y o w a i o t o k o g a m u j o o e e a t a m e sh i g a n a i
+BASIC5000_0049 k i m a i n o y o i s o n o sh i k a i w a y y o s u n i j u u o k u e N o ch i ts u N n i N o o n i k i r u sh i t a
+BASIC5000_0050 k i n i y r o o g a i r u g a i g a k i g i w a i k a n e b a n a r a n a i
+BASIC5000_0051 m i n i s a k a a t o n a m o o i ch i d o k u k k a ts u s u r u t o o m o i m a s u k a
+BASIC5000_0052 k i i k a k u o t a t e r u k o t o t o s o r u o j i k k o o s u r u k o t o w a d e ts u n o N d a i d e s u
+BASIC5000_0053 m i d e a m u r e a n i sh i t e d o t o b o d t i o o t u ts u k i t e k u d a s a i
+BASIC5000_0054 k e N k o o t o k o t i i w a i o i i o i i i m a k i g a ts u k u
+BASIC5000_0055 m i ts u b a ch i w a i i y r r o y a N s a N u t s u s i w o ch i k a r r u k o t o n i y o cl t e h o o u r o k k i y n a a a r k u k a ts t u
+BASIC5000_0056 m i cl k u w a s o n o k o d o m o o r i g i y d o t o n a z u k e t a
+BASIC5000_0057 m i m u z u o o u b u t o w r e a a m u g o f o r u u r i t o g a i r u
+BASIC5000_0058 y o sh i o w a s e e k i k u w a h a h a i y a n i y o o n o o b a u i o i w ch u k i e i n e i r u
+BASIC5000_0059 m e e w a k u o w k a i i sh i m e m o sh sh i w a k e r r i m a s e N
+BASIC5000_0060 m i r o n o b i N n a s u g a k a N z e N d a a t t a t o k i n i w a z o o n i w a u d e m o ts u i t e i t a
+BASIC5000_0061 m i r u t o n n o s a k u h i N o i o N d a k o t o g a a r i m a s u k a
+BASIC5000_0062 m i r a s s e e s e w w a a t a t a n i sh i b a r a k u m a cl t e m o r a i t a i t o o m o cl t e i m a s u
+BASIC5000_0063 m u u j i k a r u w a n i n a k a cl t a n o d e s u k a
+BASIC5000_0064 k u s a b a n a n i ts u i t e m o cl t o sh i r i t a i t o o m o i m a sh i t a
+BASIC5000_0065 h o o t a N k a r a k o m a cl t e i u u n o k a n a g a g u N t o j i j j i N sh o sh o k k i d e d e r o sh t i N t a
+BASIC5000_0066 d o r o d a r a k e n o a sh i n e i m a i t o o o d a d a r r u i t e w a i k e n a i
+BASIC5000_0067 m i N N e N g u n i a a a a a t e t e n i m a cl t a k o t o n i t a i sh i s a i n o k k a r a t i m a s u
+BASIC5000_0068 h i n a t a n i s u w a cl t e i r u n o n i w a t a sh i w a m a d a s a n o k e N a sh i t a
+BASIC5000_0069 m i N w a h a k i n o k o k i t a m o t a ts a n d a y k a w a w a sh i t a
+BASIC5000_0070 f u N s e k i n i o t t e w a k u r u k u n i n o o t e s a i sh o b i b u N s e k i s a r e t a k e i n i e i i k o o d o o n o r u i k i i n i o cl t e i r u b u N u g o a o o k i
+BASIC5000_0071 s a r u n a r a o i w a n a k e r e b a n a r i m a s e N
+BASIC5000_0072 s a r a n i y o o o k a r a m i r u t o w a t m a r a b o w t a t a cl o o j a i n i n r i m a s u
+BASIC5000_0073 s a r i n e n a k u s a t a i k o n o k o n i w a f k u k u ch a k o t o w a t o t e m o i e e a i
+BASIC5000_0074 j o o d a n n i sh i o o o o o k u o u r a n a sh i r o k e N sh i t e sh t u o s o u y o d
+BASIC5000_0075 s a m o n a i t o k i r u r e n o m a i n i s o k o n i ts u k e n a i d e sh o o
+BASIC5000_0076 sh a t a t a i n i k u z u k a r e n a i y o o n i s o o cl t a k a r e r a o t o i i d a sh i i a N n p a i i n o o o n o n o o o o o o o o o o o o o
+BASIC5000_0077 i a m i y o n i t e b p o o j a r r u m a i sh i N o N n o s a r r o r i n o i u n o i o r i o a n o i e i k o i i n t a n o n a y i i i n i i
+BASIC5000_0078 s a N z a N s e o a o sh i t a n o n i n a N d o o i s a ts u n o n a i
+BASIC5000_0079 t a i h e e y o o w a s e k i i k e i i i b a N k k k i n a t a i y o o d e s u
+BASIC5000_0080 j o o k u u k a N n i sh o k u w a b u u a n o ky o o i k u n i o o k u n o j i k a o o ts u i i a s u
+BASIC5000_0081 z e N b o n o k a k u s e N w a s o k o o e cl t a w a k e d e w a n a i
+BASIC5000_0082 a t a t a k a i n o m i m o n o o k o y o o sh sh i m a sh o o k a
+BASIC5000_0083 k a cl t o n o sh i N k e ts u n i a N w a k a n a n i n o sh o o d e k i w a t a e r u k a n o o s e e g a a r i m a s u
+BASIC5000_0084 ch i k o k u n o k o t o g a n i ts u i t e i k u r i k u r i cl sh e k o sh i r i s u g i r u k o t o w a n a i
+BASIC5000_0085 u u N m e e w a i m a i a i u k a k e N s o o n i o o o r a k a s a r e t e i r u
+BASIC5000_0086 s e e s e e g a k u w a k u g u k u t e k i n a k o N k o o o n a i n o n i t o k o m o m o m n i g a g cl t e i e e g e e n a s e g a k i w sh i N e i t u r i t o g a o o i y o o d e s u
+BASIC5000_0087 a N n o j o o n n o d o d d i t a o cl i o o i t a n a k i ts u i t e k i t a i o
+BASIC5000_0088 s e e n e e n o t o o t o s a k k a N g a t t a k o t o n o n a i h i t o w a i k a k u o k o k o r o z a s u b e k i d e w a n a i
+BASIC5000_0089 g a r u u u t o t t o i e ch ch u b a n d o f u r a i d o ch i k i N t a i cl t a r a s o o u w a m o o k k a b k i n n o d a i d o k o r o d e s u
+BASIC5000_0090 g a r i d e o w a f u t a t u n o t e ts u n o t a m a o o o o t o t e cl t e N k a r a o t o sh i t a
+BASIC5000_0091 k a r a s u n o h a ch i w a k o n o n o n a n i n a cl t e sh i m a cl t a
+BASIC5000_0092 b o o t o w a k i r u n a k a r a k o o s e e t e k i n i h a i y o s a r e t a
+BASIC5000_0093 h a ch u t a i k e N n a a i t e w a t o sh i cl u z o z o o e e k e d t a
+BASIC5000_0094 d a ky o o s u r u n o w a w a t a sh i n o sh i m i n i h a N sh i t e i r u
+BASIC5000_0095 k e e z a i g a k u n o h o o g g o k o o u s u n d o o d o n i u m o N sh i t a
+BASIC5000_0096 g a a d e N s u N s u o sh i k u k k a i h a ch u sh i t e k u d a s a i
+BASIC5000_0097 g a a w a a r a h i sh o n r r i i u r o k i N k e N N a a r u k a m u sh i r e n a i
+BASIC5000_0098 s u b e t o o s u t e t e k o n o r e s u t o r a o y y a r u k o t e t e w i w a t o t o ts u d a k e d e sh i t a
+BASIC5000_0099 u w a y a k u n i h a N t a i s u r u k o t o w a k a r e m o y u u k i n a a r u o t o k o d a
+BASIC5000_0100 t a g a o k a t a z u k e n a s a i s o o s o e e r e r o o g h o N u s k k e e o k e
+BASIC5000_0101 ts a cl t o m i ts u m o cl t e s o n o s i t o sh o m a t i sh u u k a N k a k a r u d a r o o
+BASIC5000_0102 ch u u sh o k u n o t a m e e u ch ch i j i k a i a i j i j i m a d e i ch i k i k a n n o y a s u g i a a a r u
+BASIC5000_0103 sh a ch u u n i w a s u k u n a k u t o m o k o n i N n o j o o t a k u g a i m a sh i t a
+BASIC5000_0104 o o k k u s u r u j i o o o n i o j j u t a m a m e a m e r i k a k a r u j u u n i k u o ts u i k a s u r u k e e k a k u d a
+BASIC5000_0105 sh a r o o w a k e cl k a N g a n a i k a s a i s a i t e i s a k a ts u n i i cl k a i k i N s a s a r e r u
+BASIC5000_0106 n a N j i j i sh i N n i sh i N j i ts u d e a r e n a i d i N a j u m u n e r a k i n n i i ts u w a r i n a ch u n o t o k u
+BASIC5000_0107 ky o o n a m e n i h i t o m o y o k u sh i r u y o o n i n a r u t o k a r o k e g u g i n a n u k u k k e d a n a i
+BASIC5000_0108 k a N d a N n a i b u cl k a j o o sh o o n a k e cl t a t a t a sh k u y r w a g k a r u k a m e sh i r e n a i
+BASIC5000_0109 f u k u r o o a t o o m o r o k o sh i d e h a ch i k i r e s o o d a cl t a
+BASIC5000_0110 n i y a r i t o w a r a cl t e s a N s e e n i i sh i o sh i m e sh i t a
+BASIC5000_0111 s a i n o n o sh i d a N t o sh i t e w a i ts u i e ts o sh o o o g g o r e m a r e r u t o k a r e w a k a N g a a t a
+BASIC5000_0112 n i w a t o r i g a t a b e m o n o o s a g a sh i t e i m a sh i t a
+BASIC5000_0113 m a cl t a k u g u z z e N n i w a t a sh i w a m o k a sh i n o y u u j i N t o o u u u u o d e d e a cl t a
+BASIC5000_0114 s a N d e N t o y u u w a n a n a i i i k a N d a t o w a t a sh i w a o m o r
+BASIC5000_0115 n i N n i k u o o o o j u N j i sh e a a m e r e b a t a m e n i n a r u
+BASIC5000_0116 f u r u b a n i a t a t a k a i k a cl k o o sh sh i t e i n a i t o k e cl k o k u k i h o i i i i e e s i k u g a m e n i n a r u
+BASIC5000_0117 sh i m i w a j i m i j o o s e e k a ts u n o k u r u o o s a s u r e s u s e t e k u r e r u
+BASIC5000_0118 ky o o sh i w a s e e k e r o sh i t i t d e k a N n i N o o o sh i t e i r u n o o m i ts u t e t a
+BASIC5000_0119 t e ch o o g i o o a g a m h h a k k e i t a d a k e m a s e N k a
+BASIC5000_0120 k o o ch o o w a s o ts u i i y s a e h i t o r i h i t o r i t o w k u sh o o sh i t a
+BASIC5000_0121 y a m a d a k u w w a j i b u N n o b o s u n i t a i s u r i i k a r i o o s a i y o o t o ts u t o m e t a
+BASIC5000_0122 e N p u ts u w a i k i k a d r a t a i i i e y r u r e t e i r u
+BASIC5000_0123 t a t a k i i w a ts u y o o r o n o n a k a ch u t o w a k a n i r a n a i
+BASIC5000_0124 i cl p o n n a t a k a i k i r a s u i i e e n i n a r a i k a n e o ts ts u sh i t e i r u
+BASIC5000_0125 y o s a N w a s u s e e k a k u d e sh i k a k a r i N a N k i k u N e ts i t i k n i i m u
+BASIC5000_0126 i m a w a t a sh i w a r u g a w f o r u r o n i m n i n a cl t e k i t e i r u
+BASIC5000_0127 k a k a r i ch o o b a k u u n i y a m e t e sh i m a cl t a n o d e w a t a sh i g a s o n o a n a o u m e r a k e r e b a n a r a n a k u cl a cl t a
+BASIC5000_0128 k a k a r i i N g a u n a z u i t a n o d e k a n o j o w a k o d i cl t e k k a cl i cl o r e o t e w a t a sh i t a
+BASIC5000_0129 s a i sh i w a h i t o t o t o t t o o t o k u t e k i n i t a k a m e e o o t o sh i t a
+BASIC5000_0130 k o o g i k i w a m a s u m a s a h a d e sh i k u n a cl t e k i t a n o d e w a t a sh i t a ch i ch a i i cl t a i i cl a ch i sh u n i o r i t e i t t a n o y o
+BASIC5000_0131 i m a a i t o t i r i o o n a n o t i t o g a s a i cl t e i k i m a sh i t a
+BASIC5000_0132 a sh i y y o N u n i ts u k e t e i o o o o e o o t o sh i n a s a i
+BASIC5000_0133 f u k a cl t a ts u n a k o n o m o w a f u u s o o n o s e k a i n i t o j u b o r o r u k e e k o o g a ts u cl t o y u y o
+BASIC5000_0134 g o k a m e ts u b u N n o b u r u k u d a s a i cl o i cl t e i a k a r e m a sh i t a t o i w a r e t a
+BASIC5000_0135 ts u k i h a d a N o d d o s s u i e t e i b t a g a k a r e n o sh o o s o k u w a n a n i m o ch i o o t t o k o n a k a cl t a
+BASIC5000_0136 sh i n a m i n i s o r u w a k o n o h a n a sh i n o o o j i ts u d a n n i s u r u y o e e e d e s u
+BASIC5000_0137 d o o j o u j i b ts u ts u g a g g a k u w a r i r u r a r e t e i t a
+BASIC5000_0138 i cl ch i d a N k e ts u sh i t e n a n i k a t t a r a sh i i k o t o o y a r u j n i n a i k a
+BASIC5000_0139 ky o o sh i k i d e s u g a n i g a ts u n i j u u n a n o k a n o y a k u k o o u o k a N s e r u s a s e t e k u d a s a i
+BASIC5000_0140 o d e N k i d o o s u g o sh i n o k o t o t o o m o i m a s u
+BASIC5000_0141 k a m i n a r i g a i m a n i m o o ch i s o o n a h a n e sh i y o t o d e k o r o r o r o t o d a cl t a
+BASIC5000_0142 o n i i s a N o k o ky u u s a s e r u t a m e n i i sh a n i s o n o k i k a y o ts u k a cl t e m o r a i t a i t o o m o i m a s u k a
+BASIC5000_0143 m a m o g a k u r u w o w a k a r e n a h a i r e r o d o d o b u r u k u n a r i m a sh i t a
+BASIC5000_0144 s u k i r o k o n n a N t e k a k u t e w a t o h o o m o n a i k o t o t a k a g g a r r a r e t a
+BASIC5000_0145 g o m a e r u w a k i k u n i k k u n i t e k i sh i t a k o r i d a
+BASIC5000_0146 k a m i d a r i n o o d o r i t t a k o k k a g a u r o r i sh i g a m i ts u i t e k i t a
+BASIC5000_0147 o k k a m i n a i i i n i n i t e i r u y o o n i o k o cl k a ts u k a i w a t o m o m a ch i n o y o o n i m i e r u
+BASIC5000_0148 o o d o r u g a r a i sh i t a m o ch i w w a s e n a n a i
+BASIC5000_0149 m a N o o o k k i r e s s a cl t a r i m a s e r e t e sh i m a cl t a
+BASIC5000_0150 k e N b i ky o o t o b o o i N ky o o n o ch i g a i g a a a k a r i m a s u k a
+BASIC5000_0151 m i n a m i a s u r i k a s e e f u w a m a h a y a k u j u j i N d i o o o d o o n o k o o m i N g e N o m o t e r u u u N N d o o o o o k u s e e d e k i n a i
+BASIC5000_0152 sh i k a m o i k i n o b i i o o o y u k u sh i t a i n o d e s u d a
+BASIC5000_0153 m a z u sh i i k a r a t o y u u d a k e d e h i t o o k e e b e ts u s u r u b e k i d e w a n a i
+BASIC5000_0154 s a i k a i h a ts u n i y a cl t e ch i i k i n i b e N i k i g a sh o o ts u r u
+BASIC5000_0155 t o ts ts u k u r u r a n a i n i e e g a n a h a j i m a ch t e sh i m a N d d e sh o o n e
+BASIC5000_0156 m a r u u u k a k e o s u r u t o o m n a n o k o r i k i r a w a r e r u y o
+BASIC5000_0157 s a N b a N m i n i k o o r o s u b e k i j i k o o w a k a cl cl e cl t o n o j i d a i s e e d e a r u
+BASIC5000_0158 r o o sh i w a ts u y i a n e t a s a k a n a n o o o k i a a o o o g e s a n i i cl t a
+BASIC5000_0159 y o k a k u w a h o d o o ky o o ts ts u k a cl t e i i s e e w w a t a cl t e k u d a s a i
+BASIC5000_0160 a k u w a o k o n a o n i y a s a sh i k u t e s o n o k e e t a i m o m u n e N d e a r u
+BASIC5000_0161 j u u h s o o j i sh i t e t t a r a t o ts u N e N o o o ts a ts u sh i t e m i t a cl t a
+BASIC5000_0162 m i sh sh i u i i i d o w a k o k u m i w w a ch o k u s e ts u s e e n u n o y a k u n i i o y o r u
+BASIC5000_0163 w a r i i d o o r o o k a k u N b a k u N t o sh a sh i cl t e i u u j i d o o sh i t
+BASIC5000_0164 n o o m i t t a ch i w a y o i r i N o o t o f u r o o h i i o s e N s e ts u s u r u
+BASIC5000_0165 o N d o k u w a k a r e n i t o cl t e t a i h e N h o n e n o o r e r u sh i m o t o d e a cl t a
+BASIC5000_0166 w a r a k a cl t e k e r e m o m a a n o t e e d o n a r a m a d a sh a sh i t a cl t a
+BASIC5000_0167 b a k u s e e e N sh a n e k e N ky u u j o d e sh i i y a k u n o sh i t e N g a o k o n a w a r e t a
+BASIC5000_0168 a n a t a m a k u s e n i sh i n a i d e ch i b u N d e s e k i n i y o m o cl t e e a cl t e k u d a i a i
+BASIC5000_0169 a a i k i N n a n o h o N g a k o r o N b u s u y o r i k a k i n i a m a r i k a h h a cl k e N sh i t a t o y w a r e t e i r u
+BASIC5000_0170 ky u u o o o o s u r u k o t o d a k a r a i s o o d e k u d a s a i
+BASIC5000_0171 d a t a i w a i ch i t o d d o i k u r a d e y r a r e r u
+BASIC5000_0172 b a s u n o b i g g a n a k a cl t a n o d e w a t a sh i t a ch i w a k k i m a d e ts u cl t o r r u k a n a k e r e b a n a r a k a k a cl t a
+BASIC5000_0173 f u s s u r i m o cl a t t a w t o ts a ts u cl t o k i r u g g a i o i
+BASIC5000_0174 u u e i n i s u r u k a a a i n a r o o b o r e sh i N d a h o o g a m a sh i d a
+BASIC5000_0175 b a k e ts u n i m i z u o i cl p a i k u N d e m o t t e k i d a s a i
+BASIC5000_0176 b a b u d a k a n a N d a k a w a k a n n a k d o d o k o n o s o t u t o w a t a N t o o g o k a n a i
+BASIC5000_0177 ch i g a i g a i r u y r o o r u g i m o k a w a w a j u j u ch o o ch o o o t t a o o m a t a m i d a n sh i t e i r u
+BASIC5000_0178 f u z u g u z u sh i t e i t a m a n e n i t a k a i h i t e r u n i h i t o b a cl t o g a r a r a r o e e n a k u n a cl t a
+BASIC5000_0179 s o o sh i k i n i w a k u r o o f u k u o k i t e i k u n o w a sh u u k a N d e s u
+BASIC5000_0180 k a a i k a w a r k k a cl t e k e sh o sh i m o t o n i i cl t a
+BASIC5000_0181 d a i i i N i i sh i s e e w a h i t o ts u n o s e e j i t e t t a i d e a r u
+BASIC5000_0182 y o r o y y ts u t e t e i r u h i t o w a k o r o b o t o o k k i n a o t o g a s u r u
+BASIC5000_0183 s a i b a i n i t e k i sh i t a d o j o o e e r u n i w a t a d a y a s a n a k e r e b a n a r a n a i
+BASIC5000_0184 f u u u u N g a N o j i k a N o s a i t e i d a d a k e m a s u k a
+BASIC5000_0185 k e N k i N b a r a i n i w a ch u cl t a s s e N t o w a r i b i k i t t a sh i m a s u
+BASIC5000_0186 m e r u s u w a k i k sh i t e i s o ts u k i d e w a n a i
+BASIC5000_0187 m i sh i r a d i h i t o g a ch i k a i o cl t e k i t e w a t a sh i n i ch i k o k o t t a ts e d e t a
+BASIC5000_0188 m e r i n n a n i k o k a k a d a k a w w a k a n o j o n o sh i y w a s e o w r a w a sh i t e i t a
+BASIC5000_0189 m i t a g e n i a a y a s a sh i o o d d e k o d o k a r e r t e m i n n a k a r a g a j j u u n a i o o o n o o o cl t o o n a t a k u n e n o sh i e a t a a t o r w a r e t e i r u
+BASIC5000_0190 m e m o n i w a m u z u g i y k a b u r e N sh u u o s a k e r i y o o n i t o k a cl a n a n a r u n a k e t e i t a
+BASIC5000_0191 m e e r u d e a n a t a t o o sh a b e r i g a sh i t a i w a
+BASIC5000_0192 j i j i N g a f u e e e b a f u r r u k o d o s o r o n o d a r ky h a o a j k a k a g u n a k u n a r u
+BASIC5000_0193 g o k a z o k u m o i sh sh o n i ts u r e t e k o r e r e t a d o d e s u k a
+BASIC5000_0194 sh o r i i w a k a cl t e n i i j i r a r e t a k e e s e k i g a a cl t a
+BASIC5000_0195 m e N b a N n o d a e e k a g a k i m i n i s a N s e e sh i t e i m a s u k a
+BASIC5000_0196 m i o r o s u t o t a cl u s a N b i r u g a m e e t a
+BASIC5000_0197 a r u k o o t o s u r u t o k o k o w a ts u k i N t o sh i m a s u
+BASIC5000_0198 ch i j i w a a t a r a sh i i h a sh i n o t e e r u k a cl t o o sh i t a
+BASIC5000_0199 m e n i u m m i s e t e i t a d a k e m a s e N k a
+BASIC5000_0200 m e d e y g a z u o o n o k o k s e e i o o a i u y u i s u r u
+BASIC5000_0201 k i k a k u o m o t a n a i sh i N d e e w a sh i N d a sh i g g e N d e a r u
+BASIC5000_0202 m e s s e e j i n a n a z e k a m o j i b a k e sh i t e i t a n o d e sh u u u u k u sh i t e i o m i m a sh i t a
+BASIC5000_0203 k i N ky u u n o a a a i w a h a k u j u u k u u b a N n i d e w w a sh i n a s a i
+BASIC5000_0204 t o sh u r r n o o t o k o n o k o t a ch i g a k a r e n i i ts u m o t t e ts u r a b a k a r e sh i t e i r u
+BASIC5000_0205 m i t e s o n o s a k a i z i z e e w a y o o j i n n i o k k a k e r e r e r u
+BASIC5000_0206 a r u i t e i k u n o s o r o w o r e t e cl o cl a s s u d i n
+BASIC5000_0207 r r i k i g a sh o o k a s u r a w a s a r e r e m o a s u t e s e k a
+BASIC5000_0208 h a d a n o y r o n o n k a N o t o w a ts u k a r e w a r a cl d i a n i n a N d e r n o j i j u u y y o o n o sh i t a
+BASIC5000_0209 j a N m i a w a a r u r i k a n o k u n i d a k a r a a t a t a t a n a k a k i k o o g a t o t e m a a ts u i n o d e w a n a i k a t o k m o o k a g o sh i r e m a s e N d e
+BASIC5000_0210 j a a cl t a k a k i t a k a n n i o n i n a r i g t a k u t e
+BASIC5000_0211 f a w e s u r e t o t d i g i N k u N n sh i t a k o k u o s u s e t e sh o o k a i sh i m a s u
+BASIC5000_0212 k o k a n e i i o k o b s a N g a i r u n o n a m e e r u
+BASIC5000_0213 t e k i s u t o d e e t a n o j o j i d a ts u j i o sh u u s e e
+BASIC5000_0214 ch u u k i m e e k a w w a sh o o k a k i n i y o r u cl o o ry o k u j i k e N n i t a i s u r e k e n i n o o o n o a a r e t e k i t a
+BASIC5000_0215 s e e r e N k a cl t a k i k e k i o a t t a g a g a w o sh sh o k u n a N k a n i t o o s o m e r u w a k e n a i
+BASIC5000_0216 h a d a g a h i r i ts u k u d o k o k a k a ts u a a N g i y r o h i n a t a k a N t t e sh t i t e N u
+BASIC5000_0217 g e N d a i n a sh a k a i m o N d a i w a m a s u m a s u r u k u z a k u k u r u k e k e o o o a a a r r u
+BASIC5000_0218 b o k u g a ts u n a n o k a w a n a N j i k a sh i u g o o g a i i d e s u k a
+BASIC5000_0219 n a N sh u u k a N m o y o i t e N k i d a cl t a t t o d e n r a n a n u cl t a
+BASIC5000_0220 m a i y s a k a n a r a z u cl e N k i o o o o o m m i t a k a r a d a i sh i ts u sh i m a s u
+BASIC5000_0221 s u g i n o t o f u j i N w a i ts u i i n o k e k i e n a k i m o n o o k i t e i r u
+BASIC5000_0222 k u g a ts u n i f u k u g a k u s u r u k o t o o k a r e w a s u ts u b o o sh i t a
+BASIC5000_0223 j a r i y s e N e N t o d e k a t a m e r i h i y u y o o a a r r u
+BASIC5000_0224 f u k u r o o w a t o t e m o k a sh i k o o t o k a N g a e r a r e t e i r u
+BASIC5000_0225 m e N z e N n e h i t o o h o m e r i y o o n a h i t o o sh i i y o o s u r u d a
+BASIC5000_0226 ch i k u u n o o o o m e N n o y a k u s a N b u N n o i ch i g a r i k u ch i d e a r u
+BASIC5000_0227 h i g a sh i w a ts ts u k e t e k a r e r a w a ts u k a r e t e i m a sh i t a
+BASIC5000_0228 g o s e e e i g r e b a k o n o j i sh o o k a o n o n i j u u b u N d a
+BASIC5000_0229 k o k u n a i sh i o o o n o ky o o s o o w a s u s a m a j i i m o n o d e s u
+BASIC5000_0230 h i r o s e h a k a s e w a i z z u d o k e N ky u u i i t a z u s a w a cl t e i r u
+BASIC5000_0231 y o s e e w a j i b u N n o r i s o o n o ts u i k u u n i ts u i y a sh i t a i
+BASIC5000_0232 k u r u m a s s u n o j o s e e s u s t a N cl i t a i e t o r o r u
+BASIC5000_0233 h a z a ts a ch u u sh o k u n i w a t a sh i t a ch i i i z i z z u s a N d o o ts u k u cl t e k u r e t a
+BASIC5000_0234 i ch i g a ts u s a N j u n n i i i s a N j i u j j i j i ch i w a s o o sh i k i n o t a m e a a s u m i m a s u
+BASIC5000_0235 h a h a w a t a t a sh i n o n o n o m o n o n o w a n a N d e m o w w a d a k u t e m o k a n a i t e k u r e r u
+BASIC5000_0236 h a n i n o k o n o s e e t a a ts ts u k u r o t t e m a cl a cl t a
+BASIC5000_0237 o t a r a r i t a n o sh i m i n i o m a ch i sh i t e o r i m a s u
+BASIC5000_0238 s e e o o sh o k o k u w a k o n o m o N d a i n i t a i s u r u n i cl p o n sh o sh i e e e o h a n e sh i k u h i n a i sh i t e i m a s u
+BASIC5000_0239 b o k a r u N d a m i ch i d e a sh i o t o r a r e t e k o r o b i s o o n i n a cl t a
+BASIC5000_0240 f u e e N f u t o o n o s e e sh i d d e n a i a n a n o k k o k u k e t e i r u k e d o k e cl t o k u n o t o k o r o ch i b u N n o i k e e o m o cl t e n n a d d e k u n a n a i
+BASIC5000_0241 r i g a w a k a s e e b u d e m m o m i y o o s a i y y a cl t e i r u
+BASIC5000_0242 ts u m i n i b a r a a a s s a t o d e n a k a k u d e w u t e N a k u k k u r i n i n a r a a a a a a a
+BASIC5000_0243 r e N sh o o d a i k i k k i r i m i m i s u r e t t e h a r a g a N k a i
+BASIC5000_0244 k u r e r u n o d e w a r a k u t a i i o o a s o o d e s u
+BASIC5000_0245 k u r i h i g o k u r i h i m o g n a j i y o o n i s u n i s a cl t a
+BASIC5000_0246 k i z u k a r a n a r a r e r u j o o n a N t o k a sh i n a s a i
+BASIC5000_0247 m a cl t e y w a r a k u k a n a k m u r e n i n a k a k k e r e d o w a t a sh i m o w a r u k a n a i
+BASIC5000_0248 w a t a sh i i e i o o o n i h e e a a a r r e i i i n n o d e s u g a
+BASIC5000_0249 h a sh i a a k o w a r e t e i t a n o d e o y o o u sh i k a n a k a cl t a
+BASIC5000_0250 r r k i g a ch i g a h o d o o n i o ch i t e k a ch a N t o w a r e t a

@@ -49,6 +49,13 @@ class E2EModelLightningModule(pl.LightningModule):
         loss = self._shared_step(batch, batch_idx, phase='validation')
         self.log('val_loss', loss, on_epoch=True)  # バリデーション損失のログ
         return loss
+    
+    def test_step(self, batch, batch_idx):
+        # テストステップの定義
+        loss = self._shared_step(batch, batch_idx, phase='test')
+        self.log('test_loss', loss, on_epoch=True)  # テスト損失のログ
+        return loss
+    
 
     def _shared_step(self, batch, batch_idx, phase):
         # バッチデータの取得
@@ -76,15 +83,47 @@ class E2EModelLightningModule(pl.LightningModule):
         labels = labels[:, :torch.max(label_lens)]
 
         # モデルの出力を計算（フォワードパス）
-        outputs, _ = self(features, feat_lens, labels)
+        outputs, out_lens = self(features, feat_lens, labels)
 
         # 損失の計算
         b_size, t_size, _ = outputs.size()
         loss = self.criterion(outputs.view(b_size * t_size, -1), labels.reshape(-1))
         loss *= torch.mean(label_lens.float()).item()
+        
+         # テスト時のみ認識エラーを計算
+        if phase == 'test':
+            self._write_decode_results(outputs, labels, label_lens, utt_ids, out_lens, indices)
 
         return loss
-        
+
+    def _write_decode_results(self, outputs, labels, label_lens, utt_ids, out_lens, indices):
+        """ デコード結果をファイルに書き込む """
+        hypothesis_file = f"{self.hparams.output_dir}/hypothesis.txt"
+        reference_file = f"{self.hparams.output_dir}/reference.txt"
+
+        with open(hypothesis_file, mode='a') as hyp_file, open(reference_file, mode='a') as ref_file:
+            for n in range(outputs.size(0)):
+                idx = torch.nonzero(indices == n, as_tuple=False).view(-1)[0]
+
+                # 各ステップのデコーダ出力を得る
+                _, hyp_per_step = torch.max(outputs[idx], 1)
+                hyp_per_step = hyp_per_step.cpu().numpy()
+
+                hypothesis = []
+                for m in hyp_per_step[:out_lens[idx]]:
+                    if m == self.hparams.eos_id:
+                        break
+                    hypothesis.append(self.hparams.token_list[m])
+
+                # 正解の文字列を取得
+                reference = []
+                for m in labels[n][:label_lens[n]].cpu().numpy():
+                    reference.append(self.hparams.token_list[m])
+
+                # 結果を書き込む
+                hyp_file.write(f"{utt_ids[n]} {' '.join(hypothesis)}\n")
+                ref_file.write(f"{utt_ids[n]} {' '.join(reference)}\n")
+                
     
     def _calculate_errors(self, outputs, labels, label_lens, utt_ids, phase):
         # 認識エラーを計算する
@@ -108,6 +147,8 @@ class E2EModelLightningModule(pl.LightningModule):
             self.model.save_att_matrix(0, f"{self.hparams.out_att_dir}/{utt_ids[0]}_ep{self.current_epoch+1}.png")
 
         return total_error, total_token_length
+    
+    
 
     def configure_optimizers(self):
         # オプティマイザーの設定

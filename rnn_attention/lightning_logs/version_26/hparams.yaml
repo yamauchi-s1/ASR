@@ -1,0 +1,41 @@
+att_filter_num: 10
+att_filter_size: 100
+att_hidden_dim: 320
+att_temperature: 2.0
+batch_size: 10
+clip_grad_threshold: 5.0
+dec_hidden_dim: 300
+dec_num_layers: 1
+dim_in: 40
+early_stop_threshold: 3
+enc_bidirectional: true
+enc_hidden_dim: 320
+enc_num_layers: 5
+enc_projection_dim: 320
+enc_rnn_type: GRU
+enc_sub_sample:
+- 1
+- 2
+- 2
+- 1
+- 1
+evaluate_error:
+  train: false
+  validation: true
+feat_scp_dev: ../data/fbank/dev/feats.scp
+feat_scp_test: ../data/fbank/test/feats.scp
+feat_scp_train: ../data/fbank/train_small/feats.scp
+initial_learning_rate: 1.0
+label_dev: ./exp_train_small/data/phone/label_dev
+label_test: ./exp_train_small/data/phone/label_test
+label_train: ./exp_train_small/data/phone/label_train_small
+lr_decay_factor: 0.5
+lr_decay_start_epoch: 7
+max_num_epoch: 60
+mean_std_file: ../data/fbank/train_small/mean_std.txt
+num_tokens: 37
+out_att_dir: ./exp_train_small/phone_model_attention/att_matrix
+output_dir: ./exp_train_small/phone_model_attention
+sos_id: 36
+token_list_path: ./exp_train_small/data/phone/token_list
+unit: phone

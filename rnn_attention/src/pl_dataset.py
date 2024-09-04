@@ -12,12 +12,14 @@ from torch.utils.data import DataLoader
 class SequneceDataModule(pl.LightningDataModule):
     
     def __init__(self, 
-                 feat_scp_train, 
-                 label_train, 
-                 feat_scp_dev, 
-                 label_dev, 
-                 mean_std_file,
-                 token_list_path,
+                 feat_scp_train=None, 
+                 label_train=None, 
+                 feat_scp_dev=None, 
+                 label_dev=None, 
+                 feat_scp_test=None,
+                 label_test=None,
+                 mean_std_file=None,
+                 token_list_path=None,
                  batch_size=10,
                  num_workers=1):
         
@@ -27,6 +29,8 @@ class SequneceDataModule(pl.LightningDataModule):
         self.label_train = label_train
         self.feat_scp_dev = feat_scp_dev
         self.label_dev = label_dev
+        self.feat_scp_test = feat_scp_test
+        self.label_test = label_test
         
         self.mean_std_file = mean_std_file
         self.token_list_path = token_list_path
@@ -70,18 +74,24 @@ class SequneceDataModule(pl.LightningDataModule):
         return token_list, num_tokens, sos_id, eos_id
             
     def setup(self, stage=None):
+        if stage == 'fit' or stage is None:
+            # トレーニングデータセットと検証データセットを初期化
+            self.train_dataset = SequenceDataset(self.feat_scp_train, 
+                                                    self.label_train,
+                                                    self.feat_mean,
+                                                    self.feat_std)
         
-        self.train_dataset = SequenceDataset(self.feat_scp_train, 
-                                             self.label_train,
-                                             self.feat_mean,
-                                             self.feat_std)
-        
-        self.dev_dataset = SequenceDataset(self.feat_scp_dev,
-                                           self.label_dev,
-                                           self.feat_mean,
-                                           self.feat_std)
-        
-        
+            self.dev_dataset = SequenceDataset(self.feat_scp_dev,
+                                                self.label_dev,
+                                                self.feat_mean,
+                                                self.feat_std)        
+        if stage == 'test' or stage is None:
+            # テストデータセットを初期化
+            self.test_dataset = SequenceDataset(self.feat_scp_test,
+                                                self.label_test,
+                                                self.feat_mean,
+                                                self.feat_std)
+    
     def train_dataloader(self):
         return DataLoader(
             self.train_dataset,
@@ -100,3 +110,11 @@ class SequneceDataModule(pl.LightningDataModule):
             pin_memory=True  # CUDAのためのピンメモリを有効にする
         )
         
+    def test_dataloader(self):
+        return DataLoader(
+            self.test_dataset,
+            batch_size=self.batch_size,
+            shuffle=False,
+            num_workers=self.num_workers,
+            pin_memory=True
+        )
